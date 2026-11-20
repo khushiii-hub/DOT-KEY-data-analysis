@@ -1,0 +1,1001 @@
+product_id,product_name,category,product_type,skin_type,size,price_inr,discount_percent,selling_price_inr,rating,review_count,stock_quantity,is_active
+PROD00001,Dot & Key Niacinamide Serum Hyaluronic,Serum,Niacinamide Serum,Normal,50 ml,299,10,269.1,4.3,3272,613,Yes
+PROD00002,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,Sensitive,15 ml,349,35,226.85,3.4,1730,1209,No
+PROD00003,Dot & Key Tinted Lip Balm Cica,Lip Care,Tinted Lip Balm,Combination,15 ml,399,35,259.35,4.4,2163,65,No
+PROD00004,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Oily,150 ml,449,20,359.2,4.7,3066,924,No
+PROD00005,Dot & Key Niacinamide Serum Cica,Serum,Niacinamide Serum,Dry,50 ml,449,30,314.3,3.4,2078,985,Yes
+PROD00006,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,Normal,30 ml,449,0,449.0,4.3,4856,280,No
+PROD00007,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Sensitive,100 ml,299,25,224.25,3.4,1303,454,Yes
+PROD00008,Dot & Key SPF 50 Sunscreen Hyaluronic,Sunscreen,SPF 50 Sunscreen,Oily,15 ml,299,30,209.3,3.2,1957,1124,Yes
+PROD00009,Dot & Key Oil-Free Moisturizer Watermelon,Moisturizer,Oil-Free Moisturizer,Dry,150 ml,899,30,629.3,3.6,4697,216,Yes
+PROD00010,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,Combination,30 ml,699,10,629.1,5.0,3898,832,Yes
+PROD00011,Dot & Key Lip Oil Barrier Repair,Lip Care,Lip Oil,Dry,150 ml,799,10,719.1,4.7,2810,202,No
+PROD00012,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Dry,150 ml,199,0,199.0,3.9,3844,974,Yes
+PROD00013,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,Dry,150 ml,299,30,209.3,3.5,1310,1471,No
+PROD00014,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Normal,200 ml,449,25,336.75,4.0,3744,610,No
+PROD00015,Dot & Key SPF 30 Sunscreen Watermelon,Sunscreen,SPF 30 Sunscreen,All Skin Types,100 ml,199,30,139.3,4.7,110,1395,Yes
+PROD00016,Dot & Key Conditioner Watermelon,Hair Care,Conditioner,Oily,30 ml,599,25,449.25,3.5,4857,327,Yes
+PROD00017,Dot & Key Niacinamide Serum Cica,Serum,Niacinamide Serum,Sensitive,100 ml,499,25,374.25,4.4,3150,825,Yes
+PROD00018,Dot & Key Hydrating Cleanser Cica,Cleanser,Hydrating Cleanser,All Skin Types,80 ml,299,15,254.15,3.9,1409,93,Yes
+PROD00019,Dot & Key Scalp Serum Vitamin C,Hair Care,Scalp Serum,All Skin Types,150 ml,449,20,359.2,3.7,4088,814,No
+PROD00020,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Sensitive,80 ml,899,20,719.2,4.5,1527,46,Yes
+PROD00021,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Sensitive,80 ml,449,30,314.3,4.3,342,855,Yes
+PROD00022,Dot & Key Lip Balm Vitamin C,Lip Care,Lip Balm,Oily,150 ml,449,15,381.65,4.7,1023,888,No
+PROD00023,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,All Skin Types,50 ml,249,15,211.65,4.2,4399,1077,No
+PROD00024,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,Oily,30 ml,799,5,759.05,4.2,2004,587,Yes
+PROD00025,Dot & Key Body Butter Barrier Repair,Body Care,Body Butter,Dry,200 ml,199,15,169.15,3.4,1661,1293,Yes
+PROD00026,Dot & Key Shampoo Barrier Repair,Hair Care,Shampoo,Combination,15 ml,799,25,599.25,4.0,4298,78,Yes
+PROD00027,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Dry,50 ml,349,15,296.65,3.4,601,830,Yes
+PROD00028,Dot & Key Oil-Free Moisturizer Barrier Repair,Moisturizer,Oil-Free Moisturizer,Sensitive,30 ml,299,25,224.25,3.1,2088,633,No
+PROD00029,Dot & Key Conditioner Watermelon,Hair Care,Conditioner,Normal,80 ml,799,25,599.25,3.9,4674,1357,Yes
+PROD00030,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Combination,80 ml,349,25,261.75,3.6,4527,450,Yes
+PROD00031,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,Sensitive,200 ml,499,20,399.2,3.8,1734,807,Yes
+PROD00032,Dot & Key Body Scrub Vitamin C,Body Care,Body Scrub,Dry,15 ml,399,20,319.2,3.7,278,1472,Yes
+PROD00033,Dot & Key Tinted Lip Balm Vitamin C,Lip Care,Tinted Lip Balm,Normal,30 ml,599,35,389.35,4.7,1073,903,Yes
+PROD00034,Dot & Key Ceramide Cream Cica,Moisturizer,Ceramide Cream,Normal,200 ml,499,15,424.15,3.1,2433,772,Yes
+PROD00035,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,All Skin Types,50 ml,549,5,521.55,3.9,3298,137,Yes
+PROD00036,Dot & Key Gentle Face Wash Barrier Repair,Cleanser,Gentle Face Wash,Combination,150 ml,249,0,249.0,3.5,2829,944,No
+PROD00037,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Combination,15 ml,799,15,679.15,3.0,3834,1478,Yes
+PROD00038,Dot & Key Gentle Face Wash Hyaluronic,Cleanser,Gentle Face Wash,All Skin Types,200 ml,699,5,664.05,3.1,2042,271,Yes
+PROD00039,Dot & Key Body Lotion Cica,Body Care,Body Lotion,Dry,80 ml,499,10,449.1,3.8,2287,217,Yes
+PROD00040,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Normal,50 ml,899,0,899.0,3.3,848,724,Yes
+PROD00041,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,All Skin Types,150 ml,899,5,854.05,3.6,2412,511,No
+PROD00042,Dot & Key Body Wash Hyaluronic,Body Care,Body Wash,Sensitive,200 ml,499,25,374.25,3.9,536,978,Yes
+PROD00043,Dot & Key Barrier Repair Cream Hyaluronic,Moisturizer,Barrier Repair Cream,Sensitive,50 ml,199,25,149.25,3.9,2798,1332,Yes
+PROD00044,Dot & Key Body Scrub Cica,Body Care,Body Scrub,Combination,80 ml,399,20,319.2,3.4,1509,746,Yes
+PROD00045,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,All Skin Types,80 ml,699,35,454.35,3.9,2434,918,Yes
+PROD00046,Dot & Key Lip Balm Watermelon,Lip Care,Lip Balm,Sensitive,50 ml,249,10,224.1,4.4,4095,1351,No
+PROD00047,Dot & Key Vitamin C Serum Vitamin C,Serum,Vitamin C Serum,All Skin Types,80 ml,249,20,199.2,3.3,2584,1259,No
+PROD00048,Dot & Key Hair Mask Vitamin C,Hair Care,Hair Mask,Oily,30 ml,349,10,314.1,5.0,2625,470,Yes
+PROD00049,Dot & Key Gel Sunscreen Hyaluronic,Sunscreen,Gel Sunscreen,Normal,150 ml,299,35,194.35,3.4,4915,656,Yes
+PROD00050,Dot & Key Body Butter Barrier Repair,Body Care,Body Butter,All Skin Types,30 ml,799,25,599.25,3.4,1277,1135,No
+PROD00051,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,Combination,15 ml,699,5,664.05,3.2,4071,423,No
+PROD00052,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,All Skin Types,80 ml,699,15,594.15,4.2,629,1374,Yes
+PROD00053,Dot & Key Hydrating Moisturizer Cica,Moisturizer,Hydrating Moisturizer,Combination,150 ml,449,0,449.0,5.0,1568,350,Yes
+PROD00054,Dot & Key Conditioner Vitamin C,Hair Care,Conditioner,Normal,15 ml,499,25,374.25,4.0,2772,1439,Yes
+PROD00055,Dot & Key Hydrating Cleanser Barrier Repair,Cleanser,Hydrating Cleanser,Sensitive,30 ml,399,5,379.05,3.6,132,761,Yes
+PROD00056,Dot & Key SPF 30 Sunscreen Cica,Sunscreen,SPF 30 Sunscreen,All Skin Types,50 ml,499,20,399.2,3.2,1663,1215,No
+PROD00057,Dot & Key Retinol Serum Watermelon,Serum,Retinol Serum,Combination,100 ml,299,15,254.15,4.3,1079,943,Yes
+PROD00058,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,All Skin Types,80 ml,299,0,299.0,3.5,2247,575,Yes
+PROD00059,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,All Skin Types,30 ml,599,25,449.25,4.7,508,1482,No
+PROD00060,Dot & Key Niacinamide Serum Watermelon,Serum,Niacinamide Serum,All Skin Types,50 ml,499,25,374.25,3.7,4400,1014,No
+PROD00061,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,All Skin Types,80 ml,199,15,169.15,3.8,2461,1372,Yes
+PROD00062,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Sensitive,100 ml,699,20,559.2,4.3,2366,559,Yes
+PROD00063,Dot & Key Lip Mask Watermelon,Lip Care,Lip Mask,Sensitive,15 ml,799,0,799.0,3.9,3322,1143,Yes
+PROD00064,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Oily,50 ml,599,20,479.2,4.8,2935,527,Yes
+PROD00065,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,Sensitive,200 ml,249,25,186.75,3.9,2095,671,Yes
+PROD00066,Dot & Key Vitamin C Serum Barrier Repair,Serum,Vitamin C Serum,Combination,100 ml,599,35,389.35,4.3,1902,167,Yes
+PROD00067,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,All Skin Types,200 ml,899,30,629.3,4.1,1244,1314,No
+PROD00068,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,All Skin Types,100 ml,449,20,359.2,4.8,2796,235,Yes
+PROD00069,Dot & Key Lip Balm Cica,Lip Care,Lip Balm,Dry,30 ml,349,35,226.85,3.6,2140,857,Yes
+PROD00070,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Normal,50 ml,599,30,419.3,3.7,2731,1135,Yes
+PROD00071,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,Oily,200 ml,549,15,466.65,3.3,3399,946,No
+PROD00072,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,All Skin Types,150 ml,249,0,249.0,4.1,4375,972,Yes
+PROD00073,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Dry,15 ml,249,10,224.1,4.9,1731,839,Yes
+PROD00074,Dot & Key Hydrating Cleanser Watermelon,Cleanser,Hydrating Cleanser,Sensitive,150 ml,549,30,384.3,4.8,2084,253,Yes
+PROD00075,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,Combination,150 ml,199,15,169.15,4.7,3436,272,Yes
+PROD00076,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Sensitive,100 ml,199,35,129.35,3.7,60,1271,Yes
+PROD00077,Dot & Key Scalp Serum Vitamin C,Hair Care,Scalp Serum,Combination,30 ml,549,15,466.65,4.4,2128,1133,No
+PROD00078,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,Oily,200 ml,499,20,399.2,3.5,2064,253,Yes
+PROD00079,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Dry,100 ml,499,15,424.15,4.1,3207,827,No
+PROD00080,Dot & Key Body Scrub Cica,Body Care,Body Scrub,Dry,100 ml,799,10,719.1,4.9,3279,1120,Yes
+PROD00081,Dot & Key Barrier Repair Cream Cica,Moisturizer,Barrier Repair Cream,Sensitive,150 ml,499,20,399.2,4.6,4668,865,No
+PROD00082,Dot & Key Lip Oil Vitamin C,Lip Care,Lip Oil,Dry,30 ml,599,20,479.2,4.2,3425,1213,Yes
+PROD00083,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,Combination,80 ml,599,20,479.2,4.0,3461,1106,Yes
+PROD00084,Dot & Key Body Butter Watermelon,Body Care,Body Butter,Sensitive,150 ml,249,35,161.85,3.1,4606,319,Yes
+PROD00085,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Combination,15 ml,299,15,254.15,4.2,1630,1430,Yes
+PROD00086,Dot & Key Barrier Repair Cream Watermelon,Moisturizer,Barrier Repair Cream,All Skin Types,80 ml,449,15,381.65,3.9,3187,1431,No
+PROD00087,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Oily,100 ml,249,30,174.3,4.2,2299,876,Yes
+PROD00088,Dot & Key Vitamin C Serum Barrier Repair,Serum,Vitamin C Serum,Sensitive,100 ml,449,30,314.3,4.8,2710,803,Yes
+PROD00089,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Dry,15 ml,799,20,639.2,4.8,2956,310,Yes
+PROD00090,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,Sensitive,30 ml,449,15,381.65,4.9,2998,1044,Yes
+PROD00091,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Combination,50 ml,899,30,629.3,3.5,720,663,Yes
+PROD00092,Dot & Key Lip Oil Hyaluronic,Lip Care,Lip Oil,Oily,200 ml,349,10,314.1,4.5,1731,861,Yes
+PROD00093,Dot & Key SPF 30 Sunscreen Watermelon,Sunscreen,SPF 30 Sunscreen,Sensitive,30 ml,699,30,489.3,4.8,1019,1127,Yes
+PROD00094,Dot & Key Lip Oil Vitamin C,Lip Care,Lip Oil,Normal,15 ml,499,0,499.0,3.1,528,678,Yes
+PROD00095,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,Combination,150 ml,499,20,399.2,4.5,216,765,No
+PROD00096,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,Dry,150 ml,399,35,259.35,3.7,4437,177,Yes
+PROD00097,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,All Skin Types,200 ml,449,5,426.55,3.9,1940,422,No
+PROD00098,Dot & Key SPF 50 Sunscreen Vitamin C,Sunscreen,SPF 50 Sunscreen,Combination,100 ml,399,20,319.2,4.3,4875,1351,No
+PROD00099,Dot & Key Niacinamide Serum Barrier Repair,Serum,Niacinamide Serum,Combination,80 ml,899,5,854.05,4.4,4523,85,Yes
+PROD00100,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Oily,15 ml,599,30,419.3,4.0,2410,1224,Yes
+PROD00101,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Oily,15 ml,549,5,521.55,4.1,1767,959,Yes
+PROD00102,Dot & Key Body Scrub Vitamin C,Body Care,Body Scrub,Combination,100 ml,399,15,339.15,4.8,569,171,Yes
+PROD00103,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Combination,30 ml,599,25,449.25,3.4,492,1022,Yes
+PROD00104,Dot & Key Ceramide Cream Cica,Moisturizer,Ceramide Cream,Sensitive,30 ml,299,35,194.35,4.6,2867,667,Yes
+PROD00105,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,Sensitive,80 ml,449,15,381.65,4.8,502,1380,Yes
+PROD00106,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,Normal,150 ml,249,10,224.1,3.9,1889,1310,Yes
+PROD00107,Dot & Key Hyaluronic Acid Serum Barrier Repair,Serum,Hyaluronic Acid Serum,Oily,100 ml,699,15,594.15,4.6,3903,1142,No
+PROD00108,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Normal,150 ml,549,10,494.1,4.7,4281,1267,Yes
+PROD00109,Dot & Key Hydrating Cleanser Cica,Cleanser,Hydrating Cleanser,Sensitive,50 ml,399,25,299.25,3.9,4680,1309,No
+PROD00110,Dot & Key Tinted Lip Balm Vitamin C,Lip Care,Tinted Lip Balm,All Skin Types,80 ml,349,30,244.3,4.9,3240,726,Yes
+PROD00111,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Normal,200 ml,349,35,226.85,4.6,4177,980,Yes
+PROD00112,Dot & Key Body Lotion Cica,Body Care,Body Lotion,Combination,200 ml,349,5,331.55,4.8,4640,300,Yes
+PROD00113,Dot & Key Body Scrub Watermelon,Body Care,Body Scrub,Sensitive,15 ml,599,25,449.25,4.1,1862,13,Yes
+PROD00114,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,Normal,80 ml,549,15,466.65,4.3,2372,21,Yes
+PROD00115,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Oily,150 ml,799,0,799.0,4.5,1207,344,No
+PROD00116,Dot & Key Body Lotion Watermelon,Body Care,Body Lotion,Sensitive,100 ml,299,15,254.15,4.7,3832,1411,Yes
+PROD00117,Dot & Key Hydrating Moisturizer Cica,Moisturizer,Hydrating Moisturizer,Dry,150 ml,349,15,296.65,3.3,3979,145,Yes
+PROD00118,Dot & Key Oil-Free Moisturizer Barrier Repair,Moisturizer,Oil-Free Moisturizer,All Skin Types,200 ml,399,15,339.15,4.8,4008,275,Yes
+PROD00119,Dot & Key Hyaluronic Acid Serum Vitamin C,Serum,Hyaluronic Acid Serum,Dry,50 ml,549,20,439.2,4.8,1172,1296,Yes
+PROD00120,Dot & Key Body Lotion Vitamin C,Body Care,Body Lotion,Sensitive,50 ml,349,20,279.2,4.8,1247,16,Yes
+PROD00121,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,Normal,150 ml,299,30,209.3,3.8,711,985,No
+PROD00122,Dot & Key Body Lotion Vitamin C,Body Care,Body Lotion,Oily,150 ml,349,35,226.85,4.9,1981,373,Yes
+PROD00123,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,Combination,15 ml,199,25,149.25,4.8,668,1100,No
+PROD00124,Dot & Key Oil-Free Moisturizer Vitamin C,Moisturizer,Oil-Free Moisturizer,Oily,15 ml,349,10,314.1,3.8,4398,1401,Yes
+PROD00125,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Combination,100 ml,349,35,226.85,4.4,4214,1375,Yes
+PROD00126,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,Oily,80 ml,899,30,629.3,4.8,981,738,Yes
+PROD00127,Dot & Key Body Butter Watermelon,Body Care,Body Butter,Normal,150 ml,349,25,261.75,3.2,3650,919,Yes
+PROD00128,Dot & Key Barrier Repair Cream Hyaluronic,Moisturizer,Barrier Repair Cream,Combination,30 ml,599,10,539.1,3.0,470,1439,Yes
+PROD00129,Dot & Key Vitamin C Serum Vitamin C,Serum,Vitamin C Serum,Oily,50 ml,249,30,174.3,3.9,3600,1383,No
+PROD00130,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,Dry,80 ml,699,15,594.15,4.1,84,1440,Yes
+PROD00131,Dot & Key Lip Oil Vitamin C,Lip Care,Lip Oil,All Skin Types,80 ml,399,5,379.05,4.2,1295,1060,No
+PROD00132,Dot & Key Lip Balm Watermelon,Lip Care,Lip Balm,Oily,30 ml,499,0,499.0,3.2,3185,1337,Yes
+PROD00133,Dot & Key Niacinamide Serum Cica,Serum,Niacinamide Serum,All Skin Types,50 ml,499,10,449.1,3.4,4665,385,No
+PROD00134,Dot & Key Tinted Lip Balm Watermelon,Lip Care,Tinted Lip Balm,Normal,80 ml,899,25,674.25,4.8,2327,1149,No
+PROD00135,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,Dry,50 ml,499,0,499.0,3.0,44,1256,Yes
+PROD00136,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Combination,15 ml,349,35,226.85,3.5,2430,549,No
+PROD00137,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Oily,200 ml,549,15,466.65,4.0,275,822,Yes
+PROD00138,Dot & Key Oil Cleanser Hyaluronic,Cleanser,Oil Cleanser,Sensitive,100 ml,399,25,299.25,4.7,2833,148,Yes
+PROD00139,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,Oily,15 ml,549,15,466.65,3.8,4940,126,No
+PROD00140,Dot & Key Conditioner Vitamin C,Hair Care,Conditioner,All Skin Types,150 ml,799,25,599.25,4.0,1029,1283,Yes
+PROD00141,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Combination,30 ml,249,0,249.0,4.8,2763,1485,Yes
+PROD00142,Dot & Key Body Butter Watermelon,Body Care,Body Butter,Dry,50 ml,399,35,259.35,3.8,3568,1304,Yes
+PROD00143,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Dry,30 ml,899,0,899.0,3.8,2200,1368,Yes
+PROD00144,Dot & Key Vitamin C Serum Vitamin C,Serum,Vitamin C Serum,Sensitive,100 ml,249,10,224.1,3.9,3176,1412,Yes
+PROD00145,Dot & Key Conditioner Vitamin C,Hair Care,Conditioner,All Skin Types,150 ml,449,30,314.3,4.0,878,277,Yes
+PROD00146,Dot & Key Tinted Lip Balm Watermelon,Lip Care,Tinted Lip Balm,Sensitive,80 ml,349,25,261.75,4.6,3488,197,No
+PROD00147,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,Sensitive,15 ml,549,5,521.55,4.6,559,1276,No
+PROD00148,Dot & Key Lip Mask Barrier Repair,Lip Care,Lip Mask,Normal,15 ml,349,5,331.55,3.6,3640,580,No
+PROD00149,Dot & Key Body Scrub Vitamin C,Body Care,Body Scrub,Dry,200 ml,699,5,664.05,3.1,1228,587,Yes
+PROD00150,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,All Skin Types,150 ml,299,35,194.35,3.0,397,91,Yes
+PROD00151,Dot & Key Body Wash Watermelon,Body Care,Body Wash,Oily,200 ml,399,35,259.35,3.5,1379,1399,Yes
+PROD00152,Dot & Key SPF 30 Sunscreen Cica,Sunscreen,SPF 30 Sunscreen,Sensitive,15 ml,349,25,261.75,4.7,3073,900,No
+PROD00153,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Normal,150 ml,599,10,539.1,4.2,4478,743,Yes
+PROD00154,Dot & Key Hair Mask Cica,Hair Care,Hair Mask,Dry,30 ml,549,25,411.75,4.8,49,750,Yes
+PROD00155,Dot & Key Niacinamide Serum Hyaluronic,Serum,Niacinamide Serum,Dry,200 ml,399,35,259.35,5.0,4843,1003,Yes
+PROD00156,Dot & Key Hydrating Cleanser Hyaluronic,Cleanser,Hydrating Cleanser,Normal,80 ml,899,35,584.35,4.2,2172,1418,Yes
+PROD00157,Dot & Key Hyaluronic Acid Serum Hyaluronic,Serum,Hyaluronic Acid Serum,All Skin Types,30 ml,449,10,404.1,4.0,2054,1353,Yes
+PROD00158,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Combination,150 ml,449,35,291.85,4.3,3511,586,No
+PROD00159,Dot & Key Retinol Serum Cica,Serum,Retinol Serum,Dry,200 ml,449,20,359.2,5.0,3354,450,No
+PROD00160,Dot & Key Scalp Serum Vitamin C,Hair Care,Scalp Serum,Oily,50 ml,299,25,224.25,4.2,819,464,Yes
+PROD00161,Dot & Key Barrier Repair Cream Cica,Moisturizer,Barrier Repair Cream,Combination,15 ml,799,20,639.2,4.0,2655,358,Yes
+PROD00162,Dot & Key Body Lotion Watermelon,Body Care,Body Lotion,Normal,200 ml,599,30,419.3,3.8,3044,643,Yes
+PROD00163,Dot & Key Body Lotion Vitamin C,Body Care,Body Lotion,Oily,80 ml,599,0,599.0,3.9,1248,1359,Yes
+PROD00164,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Combination,150 ml,249,5,236.55,3.2,2937,1479,Yes
+PROD00165,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Sensitive,150 ml,299,10,269.1,3.3,4123,1041,Yes
+PROD00166,Dot & Key Lip Mask Barrier Repair,Lip Care,Lip Mask,Dry,30 ml,199,25,149.25,3.1,180,481,Yes
+PROD00167,Dot & Key Tinted Sunscreen Watermelon,Sunscreen,Tinted Sunscreen,All Skin Types,50 ml,499,5,474.05,3.9,74,404,No
+PROD00168,Dot & Key Oil Cleanser Barrier Repair,Cleanser,Oil Cleanser,All Skin Types,100 ml,249,15,211.65,4.6,720,768,Yes
+PROD00169,Dot & Key Oil Cleanser Cica,Cleanser,Oil Cleanser,Sensitive,50 ml,249,30,174.3,3.5,4223,629,Yes
+PROD00170,Dot & Key Body Scrub Watermelon,Body Care,Body Scrub,Normal,30 ml,799,25,599.25,4.9,4768,740,Yes
+PROD00171,Dot & Key Body Wash Watermelon,Body Care,Body Wash,Oily,15 ml,799,35,519.35,4.5,4481,478,Yes
+PROD00172,Dot & Key Conditioner Cica,Hair Care,Conditioner,Combination,80 ml,599,30,419.3,4.9,1710,448,No
+PROD00173,Dot & Key Niacinamide Serum Hyaluronic,Serum,Niacinamide Serum,All Skin Types,200 ml,349,10,314.1,4.6,3962,602,No
+PROD00174,Dot & Key Body Wash Hyaluronic,Body Care,Body Wash,Dry,80 ml,399,5,379.05,3.2,2391,8,Yes
+PROD00175,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Combination,200 ml,449,15,381.65,3.9,3407,1128,Yes
+PROD00176,Dot & Key Body Butter Watermelon,Body Care,Body Butter,All Skin Types,200 ml,199,10,179.1,4.9,2472,971,Yes
+PROD00177,Dot & Key SPF 30 Sunscreen Cica,Sunscreen,SPF 30 Sunscreen,Normal,100 ml,799,0,799.0,3.3,3548,46,Yes
+PROD00178,Dot & Key Body Butter Hyaluronic,Body Care,Body Butter,Dry,100 ml,499,25,374.25,3.4,4868,1318,No
+PROD00179,Dot & Key Gel Sunscreen Vitamin C,Sunscreen,Gel Sunscreen,Sensitive,80 ml,599,0,599.0,4.1,4900,325,Yes
+PROD00180,Dot & Key Tinted Lip Balm Cica,Lip Care,Tinted Lip Balm,Dry,30 ml,199,35,129.35,3.1,1434,1435,Yes
+PROD00181,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Sensitive,150 ml,199,25,149.25,4.3,4942,172,Yes
+PROD00182,Dot & Key Vitamin C Serum Barrier Repair,Serum,Vitamin C Serum,Oily,50 ml,349,5,331.55,3.1,4477,1292,Yes
+PROD00183,Dot & Key Hyaluronic Acid Serum Vitamin C,Serum,Hyaluronic Acid Serum,Sensitive,100 ml,349,30,244.3,3.3,4769,460,No
+PROD00184,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,All Skin Types,200 ml,899,20,719.2,4.9,3105,717,No
+PROD00185,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,Oily,15 ml,249,30,174.3,4.7,4193,1402,Yes
+PROD00186,Dot & Key Barrier Repair Cream Barrier Repair,Moisturizer,Barrier Repair Cream,Dry,80 ml,299,15,254.15,5.0,2567,121,Yes
+PROD00187,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Combination,30 ml,899,10,809.1,4.2,297,1389,Yes
+PROD00188,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,Dry,50 ml,799,15,679.15,4.8,1511,323,No
+PROD00189,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Combination,200 ml,349,5,331.55,4.3,4485,315,No
+PROD00190,Dot & Key Conditioner Watermelon,Hair Care,Conditioner,Oily,100 ml,499,10,449.1,3.6,63,628,Yes
+PROD00191,Dot & Key Vitamin C Serum Barrier Repair,Serum,Vitamin C Serum,Dry,15 ml,349,30,244.3,4.9,3602,827,Yes
+PROD00192,Dot & Key Scalp Serum Vitamin C,Hair Care,Scalp Serum,Oily,50 ml,299,5,284.05,3.3,773,1026,Yes
+PROD00193,Dot & Key Ceramide Cream Vitamin C,Moisturizer,Ceramide Cream,Dry,100 ml,399,10,359.1,4.3,4216,1376,Yes
+PROD00194,Dot & Key Lip Balm Barrier Repair,Lip Care,Lip Balm,All Skin Types,200 ml,399,10,359.1,3.6,2268,40,Yes
+PROD00195,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Normal,80 ml,799,20,639.2,3.9,2390,991,Yes
+PROD00196,Dot & Key SPF 30 Sunscreen Cica,Sunscreen,SPF 30 Sunscreen,Combination,200 ml,399,25,299.25,4.3,4716,816,Yes
+PROD00197,Dot & Key Scalp Serum Watermelon,Hair Care,Scalp Serum,Combination,15 ml,349,10,314.1,4.2,2191,1258,No
+PROD00198,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Dry,200 ml,549,0,549.0,4.7,4605,1159,Yes
+PROD00199,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,All Skin Types,200 ml,799,30,559.3,4.1,3150,959,Yes
+PROD00200,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,All Skin Types,150 ml,499,20,399.2,4.9,524,1123,No
+PROD00201,Dot & Key Body Wash Hyaluronic,Body Care,Body Wash,Normal,50 ml,399,35,259.35,3.4,2862,66,Yes
+PROD00202,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,All Skin Types,200 ml,499,20,399.2,3.1,4927,519,No
+PROD00203,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Normal,15 ml,299,10,269.1,3.4,1885,802,No
+PROD00204,Dot & Key Scalp Serum Watermelon,Hair Care,Scalp Serum,Normal,100 ml,349,20,279.2,4.9,2018,1357,Yes
+PROD00205,Dot & Key Gentle Face Wash Hyaluronic,Cleanser,Gentle Face Wash,All Skin Types,50 ml,349,30,244.3,4.1,3534,1300,Yes
+PROD00206,Dot & Key Body Wash Vitamin C,Body Care,Body Wash,Sensitive,80 ml,249,25,186.75,3.9,2422,459,No
+PROD00207,Dot & Key Tinted Lip Balm Barrier Repair,Lip Care,Tinted Lip Balm,Normal,100 ml,599,15,509.15,4.5,1672,842,Yes
+PROD00208,Dot & Key Oil-Free Moisturizer Vitamin C,Moisturizer,Oil-Free Moisturizer,Combination,80 ml,349,20,279.2,4.0,1227,1090,Yes
+PROD00209,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,Sensitive,100 ml,549,0,549.0,4.6,63,1024,Yes
+PROD00210,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,Normal,200 ml,799,30,559.3,4.4,4658,139,Yes
+PROD00211,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Oily,50 ml,599,0,599.0,4.4,3108,66,Yes
+PROD00212,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Oily,150 ml,349,10,314.1,3.4,3099,1102,Yes
+PROD00213,Dot & Key Body Butter Vitamin C,Body Care,Body Butter,Normal,50 ml,399,35,259.35,4.9,4128,624,Yes
+PROD00214,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,Combination,150 ml,899,25,674.25,4.0,4090,1092,Yes
+PROD00215,Dot & Key Lip Mask Barrier Repair,Lip Care,Lip Mask,All Skin Types,15 ml,899,0,899.0,4.7,3610,1044,No
+PROD00216,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Oily,50 ml,399,25,299.25,4.9,595,1399,No
+PROD00217,Dot & Key Lip Mask Watermelon,Lip Care,Lip Mask,Oily,50 ml,699,15,594.15,3.4,325,110,No
+PROD00218,Dot & Key Conditioner Watermelon,Hair Care,Conditioner,Dry,100 ml,349,35,226.85,3.6,898,303,Yes
+PROD00219,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Normal,80 ml,499,10,449.1,3.5,328,242,Yes
+PROD00220,Dot & Key Gel Sunscreen Barrier Repair,Sunscreen,Gel Sunscreen,All Skin Types,100 ml,349,25,261.75,3.2,774,1472,Yes
+PROD00221,Dot & Key Tinted Sunscreen Hyaluronic,Sunscreen,Tinted Sunscreen,Normal,15 ml,549,10,494.1,4.4,887,954,Yes
+PROD00222,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Oily,50 ml,699,10,629.1,4.7,1164,684,No
+PROD00223,Dot & Key Shampoo Cica,Hair Care,Shampoo,Sensitive,30 ml,549,35,356.85,4.3,4628,958,Yes
+PROD00224,Dot & Key Scalp Serum Cica,Hair Care,Scalp Serum,Sensitive,15 ml,899,35,584.35,3.7,2145,221,No
+PROD00225,Dot & Key Gentle Face Wash Hyaluronic,Cleanser,Gentle Face Wash,Sensitive,50 ml,899,5,854.05,4.7,3495,1062,Yes
+PROD00226,Dot & Key Scalp Serum Watermelon,Hair Care,Scalp Serum,Oily,100 ml,799,10,719.1,5.0,4114,957,Yes
+PROD00227,Dot & Key Oil Cleanser Cica,Cleanser,Oil Cleanser,Oily,100 ml,699,20,559.2,3.2,653,960,Yes
+PROD00228,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,Oily,150 ml,449,35,291.85,3.2,2377,1017,Yes
+PROD00229,Dot & Key Hydrating Cleanser Hyaluronic,Cleanser,Hydrating Cleanser,All Skin Types,200 ml,199,0,199.0,4.2,453,430,Yes
+PROD00230,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Combination,50 ml,499,15,424.15,4.7,24,455,Yes
+PROD00231,Dot & Key Oil-Free Moisturizer Hyaluronic,Moisturizer,Oil-Free Moisturizer,Normal,150 ml,899,10,809.1,3.9,242,43,Yes
+PROD00232,Dot & Key Retinol Serum Hyaluronic,Serum,Retinol Serum,Normal,150 ml,699,15,594.15,4.3,3922,1477,Yes
+PROD00233,Dot & Key Scalp Serum Barrier Repair,Hair Care,Scalp Serum,All Skin Types,200 ml,899,25,674.25,4.1,4509,676,Yes
+PROD00234,Dot & Key Tinted Lip Balm Vitamin C,Lip Care,Tinted Lip Balm,Combination,15 ml,549,35,356.85,3.8,1645,1003,No
+PROD00235,Dot & Key Lip Balm Vitamin C,Lip Care,Lip Balm,Sensitive,150 ml,699,0,699.0,3.2,4093,103,Yes
+PROD00236,Dot & Key Hyaluronic Acid Serum Hyaluronic,Serum,Hyaluronic Acid Serum,All Skin Types,15 ml,599,5,569.05,3.3,826,557,No
+PROD00237,Dot & Key Gentle Face Wash Cica,Cleanser,Gentle Face Wash,Combination,30 ml,499,35,324.35,3.4,4259,1059,Yes
+PROD00238,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,Dry,100 ml,599,30,419.3,4.4,4327,454,Yes
+PROD00239,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Dry,80 ml,449,30,314.3,4.3,3390,745,No
+PROD00240,Dot & Key Vitamin C Serum Vitamin C,Serum,Vitamin C Serum,Sensitive,80 ml,499,15,424.15,3.3,1562,1280,No
+PROD00241,Dot & Key Scalp Serum Barrier Repair,Hair Care,Scalp Serum,Oily,50 ml,899,30,629.3,4.3,2947,1405,Yes
+PROD00242,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Combination,150 ml,499,15,424.15,4.1,672,562,No
+PROD00243,Dot & Key Body Scrub Hyaluronic,Body Care,Body Scrub,Oily,200 ml,299,0,299.0,3.4,1302,852,No
+PROD00244,Dot & Key Lip Oil Cica,Lip Care,Lip Oil,All Skin Types,80 ml,799,25,599.25,3.3,1404,718,Yes
+PROD00245,Dot & Key Gentle Face Wash Cica,Cleanser,Gentle Face Wash,Oily,50 ml,349,5,331.55,4.1,2897,185,Yes
+PROD00246,Dot & Key Body Lotion Vitamin C,Body Care,Body Lotion,Combination,30 ml,549,5,521.55,3.2,4774,403,Yes
+PROD00247,Dot & Key Tinted Lip Balm Hyaluronic,Lip Care,Tinted Lip Balm,All Skin Types,150 ml,399,30,279.3,3.2,500,27,Yes
+PROD00248,Dot & Key Hyaluronic Acid Serum Vitamin C,Serum,Hyaluronic Acid Serum,Combination,30 ml,349,20,279.2,4.3,3195,1249,No
+PROD00249,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Normal,15 ml,449,30,314.3,3.5,4558,1272,Yes
+PROD00250,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Dry,50 ml,199,15,169.15,5.0,4052,1129,Yes
+PROD00251,Dot & Key Shampoo Cica,Hair Care,Shampoo,Normal,150 ml,549,20,439.2,4.8,4500,1202,Yes
+PROD00252,Dot & Key Oil Cleanser Cica,Cleanser,Oil Cleanser,Normal,80 ml,799,0,799.0,4.0,4769,1353,Yes
+PROD00253,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,All Skin Types,200 ml,499,15,424.15,3.2,2444,961,No
+PROD00254,Dot & Key Ceramide Cream Vitamin C,Moisturizer,Ceramide Cream,All Skin Types,15 ml,899,20,719.2,3.7,1742,466,No
+PROD00255,Dot & Key Barrier Repair Cream Barrier Repair,Moisturizer,Barrier Repair Cream,Sensitive,15 ml,499,10,449.1,3.0,2093,118,Yes
+PROD00256,Dot & Key Oil-Free Moisturizer Watermelon,Moisturizer,Oil-Free Moisturizer,Dry,200 ml,199,0,199.0,3.6,4161,354,No
+PROD00257,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,Dry,15 ml,449,5,426.55,3.3,2308,1079,Yes
+PROD00258,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,All Skin Types,150 ml,899,20,719.2,4.7,4155,866,Yes
+PROD00259,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Dry,80 ml,499,20,399.2,4.4,1423,1451,Yes
+PROD00260,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Sensitive,50 ml,449,30,314.3,3.5,3861,486,No
+PROD00261,Dot & Key Hydrating Cleanser Barrier Repair,Cleanser,Hydrating Cleanser,All Skin Types,30 ml,699,0,699.0,4.9,2295,542,Yes
+PROD00262,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Combination,200 ml,249,15,211.65,4.0,4758,1270,Yes
+PROD00263,Dot & Key Oil-Free Moisturizer Hyaluronic,Moisturizer,Oil-Free Moisturizer,Oily,15 ml,799,25,599.25,3.3,4135,1415,Yes
+PROD00264,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Oily,15 ml,299,10,269.1,4.0,1320,150,Yes
+PROD00265,Dot & Key Tinted Lip Balm Watermelon,Lip Care,Tinted Lip Balm,All Skin Types,100 ml,699,20,559.2,4.2,279,926,Yes
+PROD00266,Dot & Key Niacinamide Serum Watermelon,Serum,Niacinamide Serum,All Skin Types,200 ml,199,10,179.1,4.9,3546,36,Yes
+PROD00267,Dot & Key Body Lotion Cica,Body Care,Body Lotion,Sensitive,50 ml,499,25,374.25,5.0,1920,99,Yes
+PROD00268,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,Dry,150 ml,349,5,331.55,4.7,3011,1236,No
+PROD00269,Dot & Key Tinted Lip Balm Vitamin C,Lip Care,Tinted Lip Balm,All Skin Types,30 ml,449,35,291.85,4.5,1437,56,Yes
+PROD00270,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Oily,100 ml,799,30,559.3,4.9,169,1414,Yes
+PROD00271,Dot & Key Lip Oil Vitamin C,Lip Care,Lip Oil,Oily,200 ml,449,10,404.1,4.5,122,509,Yes
+PROD00272,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,Dry,50 ml,349,25,261.75,4.7,2254,1261,No
+PROD00273,Dot & Key Shampoo Vitamin C,Hair Care,Shampoo,Normal,80 ml,799,15,679.15,3.1,3799,719,Yes
+PROD00274,Dot & Key Lip Balm Watermelon,Lip Care,Lip Balm,Sensitive,100 ml,599,20,479.2,4.5,447,415,Yes
+PROD00275,Dot & Key Oil Cleanser Hyaluronic,Cleanser,Oil Cleanser,Dry,50 ml,549,20,439.2,4.2,948,309,No
+PROD00276,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,Sensitive,150 ml,699,30,489.3,3.2,1794,1215,Yes
+PROD00277,Dot & Key Scalp Serum Watermelon,Hair Care,Scalp Serum,Dry,15 ml,799,35,519.35,4.8,2422,987,Yes
+PROD00278,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Oily,80 ml,599,15,509.15,4.5,2868,1463,Yes
+PROD00279,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,Oily,100 ml,699,35,454.35,4.4,1127,1325,Yes
+PROD00280,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,Dry,80 ml,899,10,809.1,3.8,3917,1225,Yes
+PROD00281,Dot & Key Scalp Serum Vitamin C,Hair Care,Scalp Serum,All Skin Types,200 ml,899,20,719.2,4.3,3666,138,No
+PROD00282,Dot & Key SPF 50 Sunscreen Hyaluronic,Sunscreen,SPF 50 Sunscreen,Combination,200 ml,199,15,169.15,3.5,3860,344,Yes
+PROD00283,Dot & Key Tinted Lip Balm Cica,Lip Care,Tinted Lip Balm,Sensitive,15 ml,349,20,279.2,4.4,2232,587,Yes
+PROD00284,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Oily,100 ml,249,35,161.85,4.6,4594,479,Yes
+PROD00285,Dot & Key Body Scrub Barrier Repair,Body Care,Body Scrub,Oily,30 ml,699,0,699.0,3.3,359,251,Yes
+PROD00286,Dot & Key Hydrating Cleanser Cica,Cleanser,Hydrating Cleanser,All Skin Types,100 ml,799,25,599.25,4.8,2118,613,No
+PROD00287,Dot & Key Niacinamide Serum Barrier Repair,Serum,Niacinamide Serum,Dry,100 ml,249,35,161.85,4.9,2172,417,No
+PROD00288,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,Normal,100 ml,799,25,599.25,4.3,1368,644,No
+PROD00289,Dot & Key Hair Mask Watermelon,Hair Care,Hair Mask,Combination,30 ml,299,5,284.05,4.2,1263,441,Yes
+PROD00290,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,Normal,100 ml,549,0,549.0,4.6,2977,135,Yes
+PROD00291,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Sensitive,15 ml,299,5,284.05,4.9,4196,1279,Yes
+PROD00292,Dot & Key Gel Sunscreen Cica,Sunscreen,Gel Sunscreen,Combination,100 ml,899,0,899.0,3.9,1782,281,No
+PROD00293,Dot & Key Body Lotion Watermelon,Body Care,Body Lotion,Normal,150 ml,899,25,674.25,3.5,1375,846,No
+PROD00294,Dot & Key Body Butter Hyaluronic,Body Care,Body Butter,Sensitive,100 ml,699,10,629.1,5.0,2089,266,No
+PROD00295,Dot & Key Barrier Repair Cream Barrier Repair,Moisturizer,Barrier Repair Cream,Combination,150 ml,299,20,239.2,3.8,1055,36,Yes
+PROD00296,Dot & Key Niacinamide Serum Watermelon,Serum,Niacinamide Serum,All Skin Types,80 ml,799,25,599.25,4.0,2342,1064,Yes
+PROD00297,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Combination,80 ml,599,0,599.0,4.4,2306,869,No
+PROD00298,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,All Skin Types,100 ml,299,0,299.0,3.4,3563,36,Yes
+PROD00299,Dot & Key Oil Cleanser Hyaluronic,Cleanser,Oil Cleanser,Sensitive,30 ml,899,25,674.25,3.4,581,743,Yes
+PROD00300,Dot & Key Hyaluronic Acid Serum Barrier Repair,Serum,Hyaluronic Acid Serum,Combination,200 ml,699,15,594.15,3.9,1049,571,Yes
+PROD00301,Dot & Key Niacinamide Serum Barrier Repair,Serum,Niacinamide Serum,Normal,15 ml,899,20,719.2,3.7,84,80,No
+PROD00302,Dot & Key Tinted Lip Balm Cica,Lip Care,Tinted Lip Balm,All Skin Types,200 ml,449,5,426.55,5.0,4348,281,Yes
+PROD00303,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Combination,150 ml,499,30,349.3,4.3,249,1397,Yes
+PROD00304,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,Dry,30 ml,549,10,494.1,3.7,2126,1036,Yes
+PROD00305,Dot & Key Lip Balm Cica,Lip Care,Lip Balm,Combination,100 ml,449,5,426.55,4.0,2456,724,Yes
+PROD00306,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,Sensitive,80 ml,449,20,359.2,3.1,4496,1200,Yes
+PROD00307,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,Normal,100 ml,349,5,331.55,3.7,2355,1210,Yes
+PROD00308,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,All Skin Types,100 ml,549,0,549.0,4.1,2247,850,No
+PROD00309,Dot & Key Body Scrub Vitamin C,Body Care,Body Scrub,Dry,200 ml,299,15,254.15,4.5,4619,1363,Yes
+PROD00310,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Normal,30 ml,499,15,424.15,3.2,4394,296,Yes
+PROD00311,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Normal,200 ml,799,25,599.25,3.5,1324,770,Yes
+PROD00312,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Normal,15 ml,499,25,374.25,4.4,2166,1022,Yes
+PROD00313,Dot & Key Tinted Lip Balm Cica,Lip Care,Tinted Lip Balm,Dry,30 ml,549,20,439.2,4.2,375,106,Yes
+PROD00314,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Sensitive,15 ml,449,15,381.65,4.5,1052,1314,No
+PROD00315,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,Sensitive,150 ml,349,0,349.0,3.3,630,972,Yes
+PROD00316,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,Dry,150 ml,799,0,799.0,3.6,3370,1331,Yes
+PROD00317,Dot & Key Body Lotion Watermelon,Body Care,Body Lotion,Oily,200 ml,499,25,374.25,4.5,2850,14,Yes
+PROD00318,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,All Skin Types,50 ml,349,35,226.85,3.1,1759,546,Yes
+PROD00319,Dot & Key Gel Sunscreen Cica,Sunscreen,Gel Sunscreen,Combination,15 ml,249,20,199.2,4.6,4014,70,Yes
+PROD00320,Dot & Key Hyaluronic Acid Serum Vitamin C,Serum,Hyaluronic Acid Serum,Normal,15 ml,199,25,149.25,3.8,2624,1369,Yes
+PROD00321,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Dry,200 ml,699,0,699.0,3.1,4046,209,Yes
+PROD00322,Dot & Key Body Scrub Watermelon,Body Care,Body Scrub,Normal,15 ml,249,5,236.55,5.0,4224,499,No
+PROD00323,Dot & Key Vitamin C Serum Vitamin C,Serum,Vitamin C Serum,Normal,15 ml,499,5,474.05,3.9,3695,1181,Yes
+PROD00324,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Oily,30 ml,799,20,639.2,3.5,1277,806,Yes
+PROD00325,Dot & Key Body Butter Vitamin C,Body Care,Body Butter,Sensitive,50 ml,599,35,389.35,4.1,2311,278,Yes
+PROD00326,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,Dry,80 ml,399,0,399.0,4.3,4638,505,Yes
+PROD00327,Dot & Key Barrier Repair Cream Hyaluronic,Moisturizer,Barrier Repair Cream,Sensitive,50 ml,199,5,189.05,4.7,4858,794,Yes
+PROD00328,Dot & Key Tinted Lip Balm Hyaluronic,Lip Care,Tinted Lip Balm,Oily,100 ml,249,10,224.1,4.9,4351,179,No
+PROD00329,Dot & Key Gel Sunscreen Hyaluronic,Sunscreen,Gel Sunscreen,Combination,50 ml,549,15,466.65,4.9,2951,717,Yes
+PROD00330,Dot & Key Conditioner Cica,Hair Care,Conditioner,Combination,80 ml,399,5,379.05,3.6,2393,1006,Yes
+PROD00331,Dot & Key Body Wash Vitamin C,Body Care,Body Wash,Oily,30 ml,549,5,521.55,4.8,1249,1455,Yes
+PROD00332,Dot & Key Scalp Serum Barrier Repair,Hair Care,Scalp Serum,Oily,50 ml,349,5,331.55,4.7,2506,418,No
+PROD00333,Dot & Key Body Butter Watermelon,Body Care,Body Butter,Combination,15 ml,899,30,629.3,3.9,205,708,Yes
+PROD00334,Dot & Key Scalp Serum Cica,Hair Care,Scalp Serum,Oily,150 ml,499,15,424.15,4.9,3798,805,No
+PROD00335,Dot & Key Body Wash Hyaluronic,Body Care,Body Wash,Sensitive,150 ml,399,5,379.05,4.9,1617,882,Yes
+PROD00336,Dot & Key Niacinamide Serum Watermelon,Serum,Niacinamide Serum,Oily,100 ml,499,35,324.35,3.5,3847,877,Yes
+PROD00337,Dot & Key Hair Mask Cica,Hair Care,Hair Mask,All Skin Types,50 ml,199,5,189.05,4.3,2677,1436,No
+PROD00338,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,Dry,200 ml,349,30,244.3,3.4,4400,550,Yes
+PROD00339,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Sensitive,80 ml,299,5,284.05,3.6,3035,84,No
+PROD00340,Dot & Key Scalp Serum Barrier Repair,Hair Care,Scalp Serum,All Skin Types,200 ml,249,35,161.85,4.8,1200,1300,No
+PROD00341,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,Sensitive,50 ml,699,5,664.05,3.9,4425,232,Yes
+PROD00342,Dot & Key Barrier Repair Cream Watermelon,Moisturizer,Barrier Repair Cream,Dry,50 ml,449,30,314.3,4.1,4829,703,Yes
+PROD00343,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,Sensitive,150 ml,799,5,759.05,3.2,2537,901,No
+PROD00344,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Sensitive,15 ml,899,10,809.1,4.0,2998,561,No
+PROD00345,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Oily,80 ml,399,15,339.15,3.7,3357,866,Yes
+PROD00346,Dot & Key Gel Sunscreen Cica,Sunscreen,Gel Sunscreen,Dry,50 ml,549,25,411.75,3.4,350,79,Yes
+PROD00347,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Normal,50 ml,249,5,236.55,4.7,4885,1386,Yes
+PROD00348,Dot & Key Conditioner Barrier Repair,Hair Care,Conditioner,All Skin Types,15 ml,799,15,679.15,3.1,1364,723,Yes
+PROD00349,Dot & Key Hydrating Cleanser Watermelon,Cleanser,Hydrating Cleanser,Oily,100 ml,399,0,399.0,3.9,1767,198,No
+PROD00350,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Normal,200 ml,699,0,699.0,4.9,58,1092,Yes
+PROD00351,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,All Skin Types,15 ml,599,25,449.25,3.2,3566,911,Yes
+PROD00352,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,Oily,200 ml,249,15,211.65,3.0,2517,1490,No
+PROD00353,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,Oily,80 ml,399,30,279.3,3.0,4710,1339,Yes
+PROD00354,Dot & Key Barrier Repair Cream Watermelon,Moisturizer,Barrier Repair Cream,Sensitive,80 ml,249,25,186.75,4.1,1190,194,No
+PROD00355,Dot & Key Tinted Lip Balm Cica,Lip Care,Tinted Lip Balm,Dry,50 ml,399,35,259.35,4.3,1005,1098,Yes
+PROD00356,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Dry,50 ml,799,0,799.0,4.0,4269,718,Yes
+PROD00357,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,Dry,150 ml,799,20,639.2,4.1,4794,1434,No
+PROD00358,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Oily,80 ml,899,25,674.25,4.4,285,846,No
+PROD00359,Dot & Key Hydrating Cleanser Watermelon,Cleanser,Hydrating Cleanser,All Skin Types,15 ml,199,15,169.15,3.5,2711,439,Yes
+PROD00360,Dot & Key SPF 50 Sunscreen Hyaluronic,Sunscreen,SPF 50 Sunscreen,Oily,200 ml,449,0,449.0,4.8,2849,1132,Yes
+PROD00361,Dot & Key Lip Balm Watermelon,Lip Care,Lip Balm,Normal,15 ml,899,35,584.35,4.2,3941,13,Yes
+PROD00362,Dot & Key Vitamin C Serum Vitamin C,Serum,Vitamin C Serum,All Skin Types,80 ml,599,30,419.3,4.2,1002,1247,No
+PROD00363,Dot & Key Hydrating Cleanser Watermelon,Cleanser,Hydrating Cleanser,Sensitive,150 ml,449,30,314.3,3.1,852,1461,Yes
+PROD00364,Dot & Key Body Lotion Cica,Body Care,Body Lotion,Dry,150 ml,349,0,349.0,3.4,4277,468,Yes
+PROD00365,Dot & Key Oil Cleanser Cica,Cleanser,Oil Cleanser,Normal,200 ml,699,0,699.0,4.1,767,142,Yes
+PROD00366,Dot & Key Tinted Lip Balm Cica,Lip Care,Tinted Lip Balm,Combination,80 ml,899,0,899.0,3.7,4242,1359,Yes
+PROD00367,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,Dry,100 ml,299,25,224.25,3.2,3746,451,Yes
+PROD00368,Dot & Key Shampoo Watermelon,Hair Care,Shampoo,Dry,100 ml,499,30,349.3,3.5,1610,693,Yes
+PROD00369,Dot & Key Conditioner Hyaluronic,Hair Care,Conditioner,Normal,100 ml,199,30,139.3,4.0,706,528,Yes
+PROD00370,Dot & Key Niacinamide Serum Vitamin C,Serum,Niacinamide Serum,Combination,200 ml,549,0,549.0,3.9,819,711,Yes
+PROD00371,Dot & Key Barrier Repair Cream Barrier Repair,Moisturizer,Barrier Repair Cream,Oily,30 ml,799,35,519.35,4.4,3403,928,Yes
+PROD00372,Dot & Key Niacinamide Serum Cica,Serum,Niacinamide Serum,Normal,100 ml,499,25,374.25,3.3,3014,26,Yes
+PROD00373,Dot & Key Lip Oil Barrier Repair,Lip Care,Lip Oil,Normal,200 ml,449,30,314.3,4.5,4417,228,Yes
+PROD00374,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Combination,100 ml,399,10,359.1,3.2,4062,1344,No
+PROD00375,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Dry,150 ml,449,20,359.2,4.7,2209,1030,Yes
+PROD00376,Dot & Key Hydrating Cleanser Watermelon,Cleanser,Hydrating Cleanser,Normal,80 ml,699,0,699.0,3.1,4694,813,Yes
+PROD00377,Dot & Key Ceramide Cream Watermelon,Moisturizer,Ceramide Cream,All Skin Types,15 ml,449,35,291.85,4.1,3382,1114,Yes
+PROD00378,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,Combination,150 ml,449,5,426.55,4.9,2505,1179,Yes
+PROD00379,Dot & Key Barrier Repair Cream Watermelon,Moisturizer,Barrier Repair Cream,All Skin Types,150 ml,699,30,489.3,4.2,2865,718,Yes
+PROD00380,Dot & Key Oil-Free Moisturizer Barrier Repair,Moisturizer,Oil-Free Moisturizer,Normal,15 ml,699,5,664.05,4.6,1661,642,Yes
+PROD00381,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Sensitive,150 ml,799,0,799.0,3.6,598,489,Yes
+PROD00382,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Oily,200 ml,599,0,599.0,3.9,413,967,Yes
+PROD00383,Dot & Key Scalp Serum Cica,Hair Care,Scalp Serum,Oily,15 ml,299,35,194.35,3.2,1957,60,No
+PROD00384,Dot & Key Conditioner Cica,Hair Care,Conditioner,Normal,150 ml,249,25,186.75,4.2,3933,155,Yes
+PROD00385,Dot & Key Body Butter Barrier Repair,Body Care,Body Butter,All Skin Types,100 ml,299,35,194.35,3.6,1358,1242,No
+PROD00386,Dot & Key SPF 30 Sunscreen Watermelon,Sunscreen,SPF 30 Sunscreen,Oily,100 ml,799,10,719.1,3.6,4446,1158,No
+PROD00387,Dot & Key Hydrating Cleanser Cica,Cleanser,Hydrating Cleanser,Normal,100 ml,299,25,224.25,3.8,3814,838,Yes
+PROD00388,Dot & Key Retinol Serum Vitamin C,Serum,Retinol Serum,Dry,30 ml,449,5,426.55,4.9,4384,908,Yes
+PROD00389,Dot & Key Body Butter Hyaluronic,Body Care,Body Butter,Oily,100 ml,899,15,764.15,3.4,703,395,No
+PROD00390,Dot & Key Conditioner Vitamin C,Hair Care,Conditioner,Dry,80 ml,549,5,521.55,3.1,847,296,Yes
+PROD00391,Dot & Key Body Scrub Watermelon,Body Care,Body Scrub,Dry,15 ml,699,35,454.35,4.2,3289,837,Yes
+PROD00392,Dot & Key Conditioner Cica,Hair Care,Conditioner,All Skin Types,100 ml,299,30,209.3,3.4,2955,695,No
+PROD00393,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,Normal,100 ml,549,5,521.55,4.8,558,749,Yes
+PROD00394,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,Oily,100 ml,549,35,356.85,4.2,510,283,Yes
+PROD00395,Dot & Key Niacinamide Serum Cica,Serum,Niacinamide Serum,Dry,80 ml,399,25,299.25,4.7,1115,414,No
+PROD00396,Dot & Key Body Scrub Vitamin C,Body Care,Body Scrub,All Skin Types,50 ml,549,0,549.0,4.7,2744,1470,Yes
+PROD00397,Dot & Key Lip Balm Barrier Repair,Lip Care,Lip Balm,Dry,150 ml,349,35,226.85,3.2,1349,1035,Yes
+PROD00398,Dot & Key Lip Balm Vitamin C,Lip Care,Lip Balm,Sensitive,80 ml,299,30,209.3,4.7,3693,571,Yes
+PROD00399,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,All Skin Types,80 ml,449,20,359.2,3.8,3754,630,Yes
+PROD00400,Dot & Key Hair Mask Cica,Hair Care,Hair Mask,Combination,100 ml,549,20,439.2,4.7,889,254,Yes
+PROD00401,Dot & Key Body Lotion Watermelon,Body Care,Body Lotion,Normal,50 ml,549,25,411.75,3.4,4705,1276,No
+PROD00402,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,All Skin Types,80 ml,699,10,629.1,4.8,4892,531,Yes
+PROD00403,Dot & Key Scalp Serum Barrier Repair,Hair Care,Scalp Serum,Combination,80 ml,199,25,149.25,3.0,3963,8,Yes
+PROD00404,Dot & Key Lip Oil Cica,Lip Care,Lip Oil,Oily,30 ml,499,15,424.15,4.5,249,1027,Yes
+PROD00405,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Sensitive,100 ml,599,15,509.15,4.1,3817,1179,Yes
+PROD00406,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Dry,150 ml,299,30,209.3,4.4,4105,148,Yes
+PROD00407,Dot & Key Lip Mask Barrier Repair,Lip Care,Lip Mask,Dry,150 ml,549,35,356.85,4.5,2312,463,Yes
+PROD00408,Dot & Key Barrier Repair Cream Watermelon,Moisturizer,Barrier Repair Cream,Dry,200 ml,799,25,599.25,4.8,1093,731,Yes
+PROD00409,Dot & Key Niacinamide Serum Vitamin C,Serum,Niacinamide Serum,Sensitive,100 ml,599,35,389.35,3.6,2044,636,Yes
+PROD00410,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,All Skin Types,30 ml,799,25,599.25,3.5,3382,505,No
+PROD00411,Dot & Key Gentle Face Wash Watermelon,Cleanser,Gentle Face Wash,Oily,200 ml,499,30,349.3,3.7,4308,905,No
+PROD00412,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,Sensitive,50 ml,499,30,349.3,4.0,692,177,No
+PROD00413,Dot & Key Hydrating Cleanser Hyaluronic,Cleanser,Hydrating Cleanser,Sensitive,100 ml,249,0,249.0,3.0,1667,847,No
+PROD00414,Dot & Key Lip Balm Cica,Lip Care,Lip Balm,Oily,150 ml,199,10,179.1,4.2,3758,563,Yes
+PROD00415,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Sensitive,100 ml,199,25,149.25,3.5,557,358,Yes
+PROD00416,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Sensitive,200 ml,399,10,359.1,4.7,121,1140,Yes
+PROD00417,Dot & Key Oil Cleanser Barrier Repair,Cleanser,Oil Cleanser,Dry,150 ml,599,5,569.05,4.4,3315,1249,Yes
+PROD00418,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,Oily,15 ml,449,15,381.65,5.0,4911,1349,No
+PROD00419,Dot & Key SPF 30 Sunscreen Watermelon,Sunscreen,SPF 30 Sunscreen,Combination,100 ml,399,15,339.15,4.8,2788,640,Yes
+PROD00420,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,Dry,100 ml,899,25,674.25,3.5,1045,1468,Yes
+PROD00421,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Oily,150 ml,399,10,359.1,5.0,4219,974,Yes
+PROD00422,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,All Skin Types,15 ml,499,5,474.05,3.2,4650,59,No
+PROD00423,Dot & Key Ceramide Cream Cica,Moisturizer,Ceramide Cream,Combination,150 ml,249,30,174.3,3.9,1496,718,Yes
+PROD00424,Dot & Key Hydrating Moisturizer Watermelon,Moisturizer,Hydrating Moisturizer,Dry,150 ml,249,0,249.0,3.0,2317,425,No
+PROD00425,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Combination,15 ml,249,15,211.65,4.8,1290,1205,Yes
+PROD00426,Dot & Key Oil-Free Moisturizer Hyaluronic,Moisturizer,Oil-Free Moisturizer,Normal,50 ml,499,10,449.1,4.5,3610,656,Yes
+PROD00427,Dot & Key Hydrating Moisturizer Cica,Moisturizer,Hydrating Moisturizer,Dry,200 ml,899,35,584.35,3.4,2993,160,No
+PROD00428,Dot & Key Body Wash Hyaluronic,Body Care,Body Wash,Normal,15 ml,449,10,404.1,4.1,3834,166,No
+PROD00429,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Oily,80 ml,899,5,854.05,4.0,2602,920,Yes
+PROD00430,Dot & Key Lip Balm Watermelon,Lip Care,Lip Balm,Oily,100 ml,349,5,331.55,4.0,2437,397,Yes
+PROD00431,Dot & Key Body Scrub Cica,Body Care,Body Scrub,Normal,15 ml,449,35,291.85,3.2,3065,926,Yes
+PROD00432,Dot & Key Niacinamide Serum Vitamin C,Serum,Niacinamide Serum,Normal,50 ml,899,30,629.3,3.9,2047,1219,No
+PROD00433,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Sensitive,100 ml,549,20,439.2,4.2,4436,414,Yes
+PROD00434,Dot & Key Lip Oil Hyaluronic,Lip Care,Lip Oil,Sensitive,100 ml,199,25,149.25,3.0,2770,594,Yes
+PROD00435,Dot & Key Oil-Free Moisturizer Vitamin C,Moisturizer,Oil-Free Moisturizer,Sensitive,50 ml,299,35,194.35,4.2,269,515,Yes
+PROD00436,Dot & Key Shampoo Barrier Repair,Hair Care,Shampoo,All Skin Types,80 ml,599,10,539.1,3.4,1450,504,Yes
+PROD00437,Dot & Key Retinol Serum Vitamin C,Serum,Retinol Serum,Sensitive,50 ml,299,35,194.35,3.0,3177,1253,No
+PROD00438,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Oily,100 ml,599,0,599.0,4.5,2521,976,Yes
+PROD00439,Dot & Key SPF 30 Sunscreen Cica,Sunscreen,SPF 30 Sunscreen,Dry,150 ml,249,20,199.2,4.2,2526,1272,Yes
+PROD00440,Dot & Key Body Wash Vitamin C,Body Care,Body Wash,Oily,15 ml,549,30,384.3,3.9,464,366,Yes
+PROD00441,Dot & Key Scalp Serum Barrier Repair,Hair Care,Scalp Serum,Normal,80 ml,449,35,291.85,3.0,1130,1171,Yes
+PROD00442,Dot & Key Lip Oil Hyaluronic,Lip Care,Lip Oil,Normal,150 ml,899,15,764.15,3.3,1891,1352,No
+PROD00443,Dot & Key Gentle Face Wash Barrier Repair,Cleanser,Gentle Face Wash,Dry,150 ml,249,10,224.1,3.3,4467,990,Yes
+PROD00444,Dot & Key Body Scrub Cica,Body Care,Body Scrub,Dry,30 ml,449,35,291.85,4.3,300,919,No
+PROD00445,Dot & Key Ceramide Cream Watermelon,Moisturizer,Ceramide Cream,Sensitive,200 ml,799,15,679.15,5.0,554,245,No
+PROD00446,Dot & Key Conditioner Vitamin C,Hair Care,Conditioner,Combination,15 ml,199,35,129.35,4.4,2796,828,Yes
+PROD00447,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Combination,200 ml,699,10,629.1,4.7,697,546,Yes
+PROD00448,Dot & Key SPF 50 Sunscreen Cica,Sunscreen,SPF 50 Sunscreen,Oily,150 ml,299,35,194.35,4.6,4211,1491,Yes
+PROD00449,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Oily,200 ml,249,5,236.55,3.6,1176,1379,Yes
+PROD00450,Dot & Key Gel Sunscreen Hyaluronic,Sunscreen,Gel Sunscreen,Sensitive,15 ml,699,25,524.25,4.2,2839,894,Yes
+PROD00451,Dot & Key Gel Sunscreen Vitamin C,Sunscreen,Gel Sunscreen,All Skin Types,150 ml,699,35,454.35,3.9,3695,198,No
+PROD00452,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Combination,50 ml,799,0,799.0,4.6,2574,924,Yes
+PROD00453,Dot & Key Oil-Free Moisturizer Watermelon,Moisturizer,Oil-Free Moisturizer,Dry,80 ml,399,20,319.2,3.9,77,241,Yes
+PROD00454,Dot & Key Ceramide Cream Cica,Moisturizer,Ceramide Cream,Normal,30 ml,449,35,291.85,3.6,4098,397,Yes
+PROD00455,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Combination,100 ml,549,10,494.1,3.8,1859,1117,No
+PROD00456,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,Combination,15 ml,349,0,349.0,3.2,2240,167,Yes
+PROD00457,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Dry,50 ml,249,35,161.85,4.0,4638,403,Yes
+PROD00458,Dot & Key Lip Oil Cica,Lip Care,Lip Oil,Sensitive,150 ml,699,20,559.2,3.3,749,461,Yes
+PROD00459,Dot & Key Body Scrub Cica,Body Care,Body Scrub,Oily,50 ml,599,30,419.3,4.8,1486,330,Yes
+PROD00460,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Normal,100 ml,799,25,599.25,4.1,2911,181,No
+PROD00461,Dot & Key Conditioner Vitamin C,Hair Care,Conditioner,Dry,150 ml,699,35,454.35,4.5,2310,437,Yes
+PROD00462,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Normal,50 ml,399,10,359.1,4.7,826,618,Yes
+PROD00463,Dot & Key Conditioner Watermelon,Hair Care,Conditioner,Sensitive,150 ml,699,10,629.1,3.3,4279,1457,No
+PROD00464,Dot & Key Tinted Lip Balm Vitamin C,Lip Care,Tinted Lip Balm,Normal,50 ml,549,35,356.85,4.7,3389,111,Yes
+PROD00465,Dot & Key Retinol Serum Watermelon,Serum,Retinol Serum,Sensitive,15 ml,549,35,356.85,4.6,758,23,No
+PROD00466,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,Sensitive,200 ml,549,0,549.0,4.9,796,464,Yes
+PROD00467,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,Normal,50 ml,899,0,899.0,4.9,374,475,No
+PROD00468,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,Oily,200 ml,549,30,384.3,4.1,3030,1255,No
+PROD00469,Dot & Key Hyaluronic Acid Serum Vitamin C,Serum,Hyaluronic Acid Serum,All Skin Types,200 ml,299,15,254.15,4.4,1553,249,Yes
+PROD00470,Dot & Key Niacinamide Serum Vitamin C,Serum,Niacinamide Serum,Dry,30 ml,899,0,899.0,3.4,4027,131,Yes
+PROD00471,Dot & Key Body Butter Hyaluronic,Body Care,Body Butter,Combination,100 ml,299,15,254.15,4.9,3536,525,Yes
+PROD00472,Dot & Key Conditioner Hyaluronic,Hair Care,Conditioner,Dry,150 ml,499,35,324.35,4.6,2318,344,Yes
+PROD00473,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,All Skin Types,30 ml,349,35,226.85,4.3,1218,943,Yes
+PROD00474,Dot & Key Hydrating Moisturizer Vitamin C,Moisturizer,Hydrating Moisturizer,Normal,30 ml,599,25,449.25,4.3,4183,1364,Yes
+PROD00475,Dot & Key Hair Mask Cica,Hair Care,Hair Mask,Combination,50 ml,249,10,224.1,4.4,752,1245,No
+PROD00476,Dot & Key Shampoo Cica,Hair Care,Shampoo,All Skin Types,30 ml,199,30,139.3,4.9,203,594,Yes
+PROD00477,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,All Skin Types,80 ml,349,25,261.75,4.6,960,571,Yes
+PROD00478,Dot & Key Gel Sunscreen Hyaluronic,Sunscreen,Gel Sunscreen,Oily,80 ml,349,10,314.1,4.5,1146,1054,No
+PROD00479,Dot & Key Body Scrub Hyaluronic,Body Care,Body Scrub,Dry,50 ml,699,30,489.3,3.3,3409,99,Yes
+PROD00480,Dot & Key Body Butter Hyaluronic,Body Care,Body Butter,Combination,150 ml,249,25,186.75,4.0,1865,1075,Yes
+PROD00481,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,All Skin Types,30 ml,249,10,224.1,3.5,687,455,Yes
+PROD00482,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,All Skin Types,30 ml,799,20,639.2,4.9,3539,1383,Yes
+PROD00483,Dot & Key Barrier Repair Cream Watermelon,Moisturizer,Barrier Repair Cream,Sensitive,80 ml,349,20,279.2,4.6,2379,278,Yes
+PROD00484,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,All Skin Types,50 ml,599,30,419.3,4.0,4932,1158,Yes
+PROD00485,Dot & Key Gentle Face Wash Barrier Repair,Cleanser,Gentle Face Wash,Dry,150 ml,899,5,854.05,4.0,679,1217,Yes
+PROD00486,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,Oily,100 ml,349,15,296.65,4.9,62,1381,Yes
+PROD00487,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Oily,100 ml,699,35,454.35,3.6,2489,230,Yes
+PROD00488,Dot & Key Gentle Face Wash Hyaluronic,Cleanser,Gentle Face Wash,Oily,150 ml,349,10,314.1,3.8,4107,1475,Yes
+PROD00489,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,All Skin Types,50 ml,549,15,466.65,4.2,4568,1272,No
+PROD00490,Dot & Key Barrier Repair Cream Watermelon,Moisturizer,Barrier Repair Cream,Dry,200 ml,199,30,139.3,4.7,865,937,Yes
+PROD00491,Dot & Key Ceramide Cream Vitamin C,Moisturizer,Ceramide Cream,Combination,150 ml,399,15,339.15,4.6,1009,828,No
+PROD00492,Dot & Key Foaming Cleanser Cica,Cleanser,Foaming Cleanser,Dry,200 ml,549,30,384.3,5.0,1847,28,Yes
+PROD00493,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,All Skin Types,200 ml,899,5,854.05,3.5,929,928,Yes
+PROD00494,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Normal,150 ml,399,0,399.0,4.6,1194,912,Yes
+PROD00495,Dot & Key Shampoo Cica,Hair Care,Shampoo,Dry,50 ml,699,20,559.2,3.8,214,451,Yes
+PROD00496,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,Normal,30 ml,399,35,259.35,5.0,322,162,Yes
+PROD00497,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Normal,100 ml,249,20,199.2,3.1,3368,929,No
+PROD00498,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Dry,200 ml,799,20,639.2,4.3,1267,589,Yes
+PROD00499,Dot & Key Lip Balm Vitamin C,Lip Care,Lip Balm,Normal,150 ml,499,15,424.15,4.5,3018,83,Yes
+PROD00500,Dot & Key Ceramide Cream Vitamin C,Moisturizer,Ceramide Cream,All Skin Types,50 ml,199,35,129.35,4.0,3021,688,Yes
+PROD00501,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,Sensitive,200 ml,599,5,569.05,4.1,144,1235,Yes
+PROD00502,Dot & Key Hyaluronic Acid Serum Hyaluronic,Serum,Hyaluronic Acid Serum,Dry,100 ml,799,30,559.3,3.8,3127,1108,No
+PROD00503,Dot & Key Retinol Serum Hyaluronic,Serum,Retinol Serum,Oily,200 ml,449,0,449.0,3.7,4817,1306,Yes
+PROD00504,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,Oily,30 ml,199,30,139.3,3.2,158,766,Yes
+PROD00505,Dot & Key Lip Balm Barrier Repair,Lip Care,Lip Balm,All Skin Types,15 ml,249,5,236.55,3.4,4913,1364,Yes
+PROD00506,Dot & Key Body Wash Vitamin C,Body Care,Body Wash,Dry,200 ml,399,30,279.3,3.6,1789,390,No
+PROD00507,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Sensitive,50 ml,549,10,494.1,4.9,2416,1445,Yes
+PROD00508,Dot & Key Hydrating Cleanser Hyaluronic,Cleanser,Hydrating Cleanser,Dry,200 ml,399,20,319.2,4.9,1278,201,Yes
+PROD00509,Dot & Key Lip Oil Hyaluronic,Lip Care,Lip Oil,Sensitive,150 ml,899,5,854.05,3.2,655,38,No
+PROD00510,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Combination,100 ml,399,35,259.35,4.2,290,1253,Yes
+PROD00511,Dot & Key Body Scrub Hyaluronic,Body Care,Body Scrub,Normal,15 ml,399,0,399.0,3.4,2861,685,Yes
+PROD00512,Dot & Key Vitamin C Serum Vitamin C,Serum,Vitamin C Serum,Normal,80 ml,399,35,259.35,3.4,1107,644,Yes
+PROD00513,Dot & Key Body Wash Vitamin C,Body Care,Body Wash,All Skin Types,50 ml,699,35,454.35,3.5,2197,212,No
+PROD00514,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,All Skin Types,50 ml,349,30,244.3,3.4,1054,1407,Yes
+PROD00515,Dot & Key Conditioner Cica,Hair Care,Conditioner,Sensitive,50 ml,899,30,629.3,4.7,3904,416,Yes
+PROD00516,Dot & Key Scalp Serum Watermelon,Hair Care,Scalp Serum,All Skin Types,15 ml,499,20,399.2,4.8,1498,29,Yes
+PROD00517,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Oily,100 ml,699,15,594.15,3.8,2924,1449,Yes
+PROD00518,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Sensitive,30 ml,199,15,169.15,4.5,838,78,Yes
+PROD00519,Dot & Key Tinted Lip Balm Watermelon,Lip Care,Tinted Lip Balm,Oily,50 ml,299,10,269.1,3.4,57,1353,No
+PROD00520,Dot & Key SPF 50 Sunscreen Vitamin C,Sunscreen,SPF 50 Sunscreen,Normal,15 ml,299,10,269.1,3.8,1980,1211,Yes
+PROD00521,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Dry,100 ml,599,15,509.15,4.3,3827,32,Yes
+PROD00522,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Oily,15 ml,299,0,299.0,3.9,2222,393,Yes
+PROD00523,Dot & Key Body Scrub Cica,Body Care,Body Scrub,Normal,200 ml,449,35,291.85,3.5,667,177,Yes
+PROD00524,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,All Skin Types,200 ml,349,10,314.1,3.4,1770,941,No
+PROD00525,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Normal,15 ml,399,0,399.0,3.9,4390,231,Yes
+PROD00526,Dot & Key Scalp Serum Vitamin C,Hair Care,Scalp Serum,All Skin Types,200 ml,399,25,299.25,3.3,4089,888,Yes
+PROD00527,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,Normal,30 ml,549,30,384.3,3.2,552,924,Yes
+PROD00528,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,Combination,100 ml,349,10,314.1,4.1,2268,556,No
+PROD00529,Dot & Key Hyaluronic Acid Serum Hyaluronic,Serum,Hyaluronic Acid Serum,Oily,150 ml,449,0,449.0,3.3,1795,1009,Yes
+PROD00530,Dot & Key Barrier Repair Cream Hyaluronic,Moisturizer,Barrier Repair Cream,Dry,50 ml,499,25,374.25,3.1,1750,277,Yes
+PROD00531,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,All Skin Types,200 ml,899,35,584.35,4.9,706,703,Yes
+PROD00532,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,All Skin Types,200 ml,799,10,719.1,4.6,3735,88,Yes
+PROD00533,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,Oily,80 ml,449,15,381.65,4.7,1199,474,Yes
+PROD00534,Dot & Key Hydrating Cleanser Hyaluronic,Cleanser,Hydrating Cleanser,Combination,80 ml,549,35,356.85,3.8,2993,479,No
+PROD00535,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Dry,150 ml,899,5,854.05,3.4,1887,607,Yes
+PROD00536,Dot & Key Body Butter Watermelon,Body Care,Body Butter,Combination,200 ml,249,10,224.1,4.6,4308,891,Yes
+PROD00537,Dot & Key Shampoo Cica,Hair Care,Shampoo,All Skin Types,50 ml,549,10,494.1,3.4,1201,1393,Yes
+PROD00538,Dot & Key Lip Mask Barrier Repair,Lip Care,Lip Mask,All Skin Types,100 ml,399,0,399.0,4.1,2490,1161,Yes
+PROD00539,Dot & Key Shampoo Vitamin C,Hair Care,Shampoo,Sensitive,50 ml,299,10,269.1,3.4,4074,565,Yes
+PROD00540,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,Oily,100 ml,699,5,664.05,3.5,385,1140,Yes
+PROD00541,Dot & Key Oil-Free Moisturizer Watermelon,Moisturizer,Oil-Free Moisturizer,Combination,150 ml,449,25,336.75,3.9,2764,1176,Yes
+PROD00542,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Oily,50 ml,549,5,521.55,3.8,1813,840,Yes
+PROD00543,Dot & Key Gentle Face Wash Hyaluronic,Cleanser,Gentle Face Wash,Combination,150 ml,399,5,379.05,4.7,3075,830,Yes
+PROD00544,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Oily,50 ml,299,20,239.2,4.1,3776,169,Yes
+PROD00545,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,All Skin Types,100 ml,199,0,199.0,3.1,4253,711,Yes
+PROD00546,Dot & Key Oil Cleanser Hyaluronic,Cleanser,Oil Cleanser,Sensitive,30 ml,449,35,291.85,4.1,4684,599,No
+PROD00547,Dot & Key Retinol Serum Vitamin C,Serum,Retinol Serum,Combination,100 ml,299,15,254.15,3.5,4547,454,Yes
+PROD00548,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,All Skin Types,30 ml,549,25,411.75,3.9,2006,360,Yes
+PROD00549,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,Sensitive,150 ml,599,15,509.15,4.9,2416,70,No
+PROD00550,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,All Skin Types,200 ml,449,10,404.1,3.1,2970,1457,No
+PROD00551,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Sensitive,200 ml,899,0,899.0,3.7,4543,5,Yes
+PROD00552,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,Sensitive,30 ml,349,0,349.0,4.7,1354,447,Yes
+PROD00553,Dot & Key Tinted Lip Balm Watermelon,Lip Care,Tinted Lip Balm,Combination,30 ml,299,30,209.3,3.4,3433,696,No
+PROD00554,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,All Skin Types,15 ml,799,30,559.3,4.0,3569,924,Yes
+PROD00555,Dot & Key Tinted Sunscreen Watermelon,Sunscreen,Tinted Sunscreen,All Skin Types,150 ml,249,35,161.85,4.0,266,917,No
+PROD00556,Dot & Key Body Butter Watermelon,Body Care,Body Butter,Combination,100 ml,349,20,279.2,4.4,3925,405,Yes
+PROD00557,Dot & Key Ceramide Cream Cica,Moisturizer,Ceramide Cream,Sensitive,150 ml,699,20,559.2,4.8,4010,474,Yes
+PROD00558,Dot & Key Retinol Serum Vitamin C,Serum,Retinol Serum,Dry,100 ml,799,15,679.15,4.5,252,369,Yes
+PROD00559,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Dry,100 ml,299,0,299.0,3.9,1680,740,Yes
+PROD00560,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,All Skin Types,200 ml,249,0,249.0,4.9,2974,796,Yes
+PROD00561,Dot & Key Hydrating Cleanser Barrier Repair,Cleanser,Hydrating Cleanser,Dry,150 ml,399,30,279.3,3.1,4100,1499,Yes
+PROD00562,Dot & Key SPF 50 Sunscreen Hyaluronic,Sunscreen,SPF 50 Sunscreen,Oily,100 ml,199,5,189.05,3.1,4053,81,Yes
+PROD00563,Dot & Key Body Scrub Watermelon,Body Care,Body Scrub,All Skin Types,15 ml,799,30,559.3,3.7,4481,115,Yes
+PROD00564,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Dry,200 ml,449,15,381.65,4.6,4492,1449,Yes
+PROD00565,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Dry,50 ml,399,30,279.3,4.2,2234,728,Yes
+PROD00566,Dot & Key Lip Oil Barrier Repair,Lip Care,Lip Oil,Sensitive,50 ml,549,20,439.2,3.6,1730,274,Yes
+PROD00567,Dot & Key Hydrating Moisturizer Vitamin C,Moisturizer,Hydrating Moisturizer,Oily,100 ml,299,0,299.0,4.4,4179,581,Yes
+PROD00568,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Dry,100 ml,199,25,149.25,3.7,3140,85,Yes
+PROD00569,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,Normal,15 ml,699,25,524.25,3.7,1455,691,No
+PROD00570,Dot & Key Niacinamide Serum Watermelon,Serum,Niacinamide Serum,Combination,15 ml,249,30,174.3,3.1,474,910,No
+PROD00571,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,Oily,50 ml,899,30,629.3,3.9,3116,1097,Yes
+PROD00572,Dot & Key Oil-Free Moisturizer Hyaluronic,Moisturizer,Oil-Free Moisturizer,Sensitive,50 ml,549,20,439.2,3.9,3923,350,Yes
+PROD00573,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Combination,150 ml,199,5,189.05,3.3,4535,443,Yes
+PROD00574,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Dry,100 ml,699,10,629.1,4.8,1864,294,Yes
+PROD00575,Dot & Key Hair Mask Vitamin C,Hair Care,Hair Mask,Sensitive,100 ml,249,35,161.85,3.6,1679,385,No
+PROD00576,Dot & Key Niacinamide Serum Vitamin C,Serum,Niacinamide Serum,Combination,15 ml,549,30,384.3,4.0,4599,1317,Yes
+PROD00577,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Sensitive,100 ml,899,25,674.25,3.1,4541,242,Yes
+PROD00578,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,Normal,200 ml,349,10,314.1,3.4,2270,149,No
+PROD00579,Dot & Key Niacinamide Serum Barrier Repair,Serum,Niacinamide Serum,Oily,30 ml,599,10,539.1,4.1,2763,45,No
+PROD00580,Dot & Key Scalp Serum Watermelon,Hair Care,Scalp Serum,Dry,150 ml,549,35,356.85,4.6,3736,603,Yes
+PROD00581,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,Dry,100 ml,349,5,331.55,4.4,3927,774,Yes
+PROD00582,Dot & Key Gel Sunscreen Vitamin C,Sunscreen,Gel Sunscreen,Normal,100 ml,599,10,539.1,3.5,4078,258,No
+PROD00583,Dot & Key Tinted Sunscreen Watermelon,Sunscreen,Tinted Sunscreen,Oily,200 ml,249,0,249.0,3.9,3864,617,No
+PROD00584,Dot & Key Lip Balm Cica,Lip Care,Lip Balm,Dry,150 ml,499,30,349.3,3.4,497,455,Yes
+PROD00585,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Oily,150 ml,699,25,524.25,4.9,2181,255,Yes
+PROD00586,Dot & Key Hydrating Cleanser Cica,Cleanser,Hydrating Cleanser,Normal,150 ml,349,0,349.0,4.7,3185,1204,Yes
+PROD00587,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Oily,150 ml,599,0,599.0,4.9,2973,591,Yes
+PROD00588,Dot & Key Body Wash Cica,Body Care,Body Wash,Dry,100 ml,699,0,699.0,3.9,4503,313,Yes
+PROD00589,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Combination,80 ml,499,0,499.0,3.7,4036,590,Yes
+PROD00590,Dot & Key Body Butter Hyaluronic,Body Care,Body Butter,Oily,100 ml,699,5,664.05,5.0,1348,737,Yes
+PROD00591,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Sensitive,150 ml,399,10,359.1,4.7,2795,1277,No
+PROD00592,Dot & Key Foaming Cleanser Cica,Cleanser,Foaming Cleanser,Normal,15 ml,349,35,226.85,4.8,4568,413,Yes
+PROD00593,Dot & Key Body Butter Cica,Body Care,Body Butter,Oily,80 ml,349,15,296.65,4.1,1594,491,Yes
+PROD00594,Dot & Key SPF 50 Sunscreen Cica,Sunscreen,SPF 50 Sunscreen,All Skin Types,15 ml,549,10,494.1,3.4,1976,765,Yes
+PROD00595,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Oily,200 ml,699,0,699.0,3.2,3508,332,No
+PROD00596,Dot & Key Lip Oil Barrier Repair,Lip Care,Lip Oil,All Skin Types,50 ml,799,35,519.35,3.1,4818,940,Yes
+PROD00597,Dot & Key Oil Cleanser Barrier Repair,Cleanser,Oil Cleanser,All Skin Types,80 ml,349,5,331.55,4.1,4270,1121,Yes
+PROD00598,Dot & Key Retinol Serum Vitamin C,Serum,Retinol Serum,Oily,30 ml,499,15,424.15,4.4,3196,1243,No
+PROD00599,Dot & Key Oil Cleanser Hyaluronic,Cleanser,Oil Cleanser,All Skin Types,30 ml,499,10,449.1,3.3,445,1213,No
+PROD00600,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Normal,100 ml,799,30,559.3,4.1,3967,997,No
+PROD00601,Dot & Key Body Butter Barrier Repair,Body Care,Body Butter,Normal,50 ml,699,0,699.0,4.4,3757,1012,Yes
+PROD00602,Dot & Key Oil Cleanser Hyaluronic,Cleanser,Oil Cleanser,All Skin Types,200 ml,249,10,224.1,4.6,213,626,Yes
+PROD00603,Dot & Key Tinted Lip Balm Hyaluronic,Lip Care,Tinted Lip Balm,Combination,50 ml,699,30,489.3,3.4,2471,1330,No
+PROD00604,Dot & Key Oil-Free Moisturizer Vitamin C,Moisturizer,Oil-Free Moisturizer,Combination,100 ml,299,30,209.3,3.9,2581,924,Yes
+PROD00605,Dot & Key SPF 30 Sunscreen Hyaluronic,Sunscreen,SPF 30 Sunscreen,Combination,200 ml,549,35,356.85,3.1,972,7,Yes
+PROD00606,Dot & Key SPF 50 Sunscreen Vitamin C,Sunscreen,SPF 50 Sunscreen,Normal,80 ml,549,20,439.2,4.6,2947,231,Yes
+PROD00607,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Oily,100 ml,199,30,139.3,3.7,368,605,Yes
+PROD00608,Dot & Key Oil-Free Moisturizer Watermelon,Moisturizer,Oil-Free Moisturizer,Normal,80 ml,399,5,379.05,3.2,379,230,Yes
+PROD00609,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Sensitive,100 ml,599,10,539.1,4.8,2431,21,No
+PROD00610,Dot & Key Body Lotion Watermelon,Body Care,Body Lotion,Sensitive,80 ml,249,0,249.0,4.8,1764,736,No
+PROD00611,Dot & Key Tinted Lip Balm Watermelon,Lip Care,Tinted Lip Balm,Oily,150 ml,499,5,474.05,4.2,1552,604,Yes
+PROD00612,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Oily,15 ml,349,0,349.0,3.6,757,1478,No
+PROD00613,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,All Skin Types,100 ml,599,30,419.3,4.2,4493,276,Yes
+PROD00614,Dot & Key Hydrating Cleanser Hyaluronic,Cleanser,Hydrating Cleanser,Oily,50 ml,299,5,284.05,3.0,907,787,Yes
+PROD00615,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Oily,100 ml,499,0,499.0,3.1,2878,182,No
+PROD00616,Dot & Key Conditioner Barrier Repair,Hair Care,Conditioner,Normal,100 ml,349,15,296.65,3.8,4907,130,Yes
+PROD00617,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,Combination,200 ml,899,20,719.2,4.9,775,347,No
+PROD00618,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Oily,80 ml,699,15,594.15,4.8,876,374,No
+PROD00619,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,Dry,30 ml,599,15,509.15,4.3,2598,884,Yes
+PROD00620,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Oily,80 ml,349,25,261.75,3.1,2512,607,Yes
+PROD00621,Dot & Key Hair Mask Watermelon,Hair Care,Hair Mask,Normal,80 ml,599,15,509.15,4.4,1522,643,Yes
+PROD00622,Dot & Key Conditioner Watermelon,Hair Care,Conditioner,Normal,150 ml,349,5,331.55,3.7,509,749,No
+PROD00623,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Sensitive,50 ml,699,25,524.25,3.3,1026,560,Yes
+PROD00624,Dot & Key Ceramide Cream Vitamin C,Moisturizer,Ceramide Cream,Combination,80 ml,499,30,349.3,4.0,4687,1307,No
+PROD00625,Dot & Key Conditioner Cica,Hair Care,Conditioner,Dry,200 ml,199,35,129.35,4.0,276,545,Yes
+PROD00626,Dot & Key Oil Cleanser Hyaluronic,Cleanser,Oil Cleanser,Sensitive,30 ml,349,10,314.1,3.4,4696,1086,Yes
+PROD00627,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Oily,50 ml,599,35,389.35,4.9,2703,598,Yes
+PROD00628,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,Dry,200 ml,899,0,899.0,3.0,2521,734,Yes
+PROD00629,Dot & Key Hydrating Cleanser Barrier Repair,Cleanser,Hydrating Cleanser,Sensitive,80 ml,899,30,629.3,4.8,2311,1060,Yes
+PROD00630,Dot & Key Tinted Lip Balm Barrier Repair,Lip Care,Tinted Lip Balm,Oily,80 ml,499,25,374.25,4.5,737,226,Yes
+PROD00631,Dot & Key Barrier Repair Cream Barrier Repair,Moisturizer,Barrier Repair Cream,Normal,80 ml,549,10,494.1,4.6,4858,1035,No
+PROD00632,Dot & Key Vitamin C Serum Barrier Repair,Serum,Vitamin C Serum,All Skin Types,15 ml,249,5,236.55,4.7,2124,1317,Yes
+PROD00633,Dot & Key Foaming Cleanser Cica,Cleanser,Foaming Cleanser,Sensitive,80 ml,699,35,454.35,3.3,1751,485,Yes
+PROD00634,Dot & Key SPF 50 Sunscreen Barrier Repair,Sunscreen,SPF 50 Sunscreen,Sensitive,50 ml,399,0,399.0,3.5,4656,732,Yes
+PROD00635,Dot & Key Oil Cleanser Barrier Repair,Cleanser,Oil Cleanser,All Skin Types,30 ml,199,20,159.2,3.1,2796,1258,Yes
+PROD00636,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Normal,30 ml,449,10,404.1,4.5,3459,1105,Yes
+PROD00637,Dot & Key Shampoo Cica,Hair Care,Shampoo,All Skin Types,50 ml,349,10,314.1,3.4,2454,861,Yes
+PROD00638,Dot & Key Scalp Serum Vitamin C,Hair Care,Scalp Serum,Oily,200 ml,699,35,454.35,4.9,4170,1004,Yes
+PROD00639,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Dry,30 ml,899,5,854.05,4.7,1714,496,Yes
+PROD00640,Dot & Key Foaming Cleanser Cica,Cleanser,Foaming Cleanser,Combination,80 ml,199,5,189.05,4.9,1712,1198,No
+PROD00641,Dot & Key Body Wash Vitamin C,Body Care,Body Wash,Oily,30 ml,899,25,674.25,4.0,693,1078,Yes
+PROD00642,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Normal,150 ml,899,25,674.25,4.0,1117,971,Yes
+PROD00643,Dot & Key SPF 50 Sunscreen Vitamin C,Sunscreen,SPF 50 Sunscreen,All Skin Types,100 ml,699,15,594.15,3.5,2221,143,Yes
+PROD00644,Dot & Key Hyaluronic Acid Serum Barrier Repair,Serum,Hyaluronic Acid Serum,Normal,100 ml,249,35,161.85,4.1,2813,1023,Yes
+PROD00645,Dot & Key Body Butter Vitamin C,Body Care,Body Butter,Sensitive,200 ml,699,25,524.25,4.3,2150,560,No
+PROD00646,Dot & Key Oil-Free Moisturizer Watermelon,Moisturizer,Oil-Free Moisturizer,Normal,100 ml,699,10,629.1,4.4,2052,1330,Yes
+PROD00647,Dot & Key Gel Sunscreen Vitamin C,Sunscreen,Gel Sunscreen,Combination,150 ml,549,30,384.3,4.0,876,686,Yes
+PROD00648,Dot & Key Niacinamide Serum Hyaluronic,Serum,Niacinamide Serum,Dry,150 ml,549,5,521.55,4.5,822,478,Yes
+PROD00649,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Sensitive,80 ml,899,10,809.1,3.1,441,1372,Yes
+PROD00650,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Combination,200 ml,599,15,509.15,4.1,1349,474,Yes
+PROD00651,Dot & Key Niacinamide Serum Barrier Repair,Serum,Niacinamide Serum,Combination,150 ml,799,0,799.0,3.1,2480,1293,Yes
+PROD00652,Dot & Key Hair Mask Cica,Hair Care,Hair Mask,Normal,150 ml,799,5,759.05,4.6,4623,364,Yes
+PROD00653,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Dry,30 ml,299,35,194.35,4.2,4073,1129,No
+PROD00654,Dot & Key Tinted Lip Balm Vitamin C,Lip Care,Tinted Lip Balm,Dry,200 ml,299,5,284.05,4.6,1627,18,Yes
+PROD00655,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Dry,200 ml,199,10,179.1,4.5,4600,1468,Yes
+PROD00656,Dot & Key Body Lotion Vitamin C,Body Care,Body Lotion,Oily,100 ml,499,35,324.35,4.7,3158,1357,Yes
+PROD00657,Dot & Key Niacinamide Serum Hyaluronic,Serum,Niacinamide Serum,Combination,150 ml,699,15,594.15,4.7,595,209,Yes
+PROD00658,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Normal,80 ml,299,15,254.15,4.9,1628,1142,Yes
+PROD00659,Dot & Key Niacinamide Serum Barrier Repair,Serum,Niacinamide Serum,Dry,50 ml,199,10,179.1,3.3,4296,754,No
+PROD00660,Dot & Key Hair Mask Cica,Hair Care,Hair Mask,Combination,15 ml,349,15,296.65,3.7,3043,645,No
+PROD00661,Dot & Key Hydrating Cleanser Hyaluronic,Cleanser,Hydrating Cleanser,Dry,30 ml,449,15,381.65,4.2,4850,761,Yes
+PROD00662,Dot & Key Body Wash Watermelon,Body Care,Body Wash,Dry,150 ml,549,0,549.0,4.6,4218,663,Yes
+PROD00663,Dot & Key Oil Cleanser Barrier Repair,Cleanser,Oil Cleanser,Normal,100 ml,299,15,254.15,4.7,1179,1433,Yes
+PROD00664,Dot & Key Barrier Repair Cream Cica,Moisturizer,Barrier Repair Cream,Combination,15 ml,699,20,559.2,4.1,2963,961,Yes
+PROD00665,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,Normal,150 ml,349,30,244.3,4.2,3273,1116,Yes
+PROD00666,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,All Skin Types,100 ml,499,5,474.05,3.6,25,20,Yes
+PROD00667,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Combination,15 ml,299,35,194.35,4.9,4166,209,No
+PROD00668,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,All Skin Types,150 ml,449,0,449.0,4.9,134,994,Yes
+PROD00669,Dot & Key Shampoo Cica,Hair Care,Shampoo,Combination,150 ml,399,0,399.0,3.1,4562,1181,No
+PROD00670,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Dry,30 ml,699,10,629.1,4.4,2715,1114,Yes
+PROD00671,Dot & Key Tinted Sunscreen Watermelon,Sunscreen,Tinted Sunscreen,Sensitive,50 ml,499,15,424.15,4.9,1213,1199,Yes
+PROD00672,Dot & Key Retinol Serum Watermelon,Serum,Retinol Serum,Combination,150 ml,349,30,244.3,3.3,3787,638,Yes
+PROD00673,Dot & Key Tinted Lip Balm Barrier Repair,Lip Care,Tinted Lip Balm,Sensitive,150 ml,349,0,349.0,4.1,2060,1130,Yes
+PROD00674,Dot & Key Retinol Serum Watermelon,Serum,Retinol Serum,Oily,50 ml,249,10,224.1,4.9,1029,1437,No
+PROD00675,Dot & Key Ceramide Cream Watermelon,Moisturizer,Ceramide Cream,Dry,15 ml,799,35,519.35,3.4,166,643,Yes
+PROD00676,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Sensitive,50 ml,299,0,299.0,3.4,4520,16,Yes
+PROD00677,Dot & Key Body Scrub Hyaluronic,Body Care,Body Scrub,Normal,100 ml,699,30,489.3,5.0,2209,930,No
+PROD00678,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Combination,100 ml,599,35,389.35,3.7,4240,1461,Yes
+PROD00679,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,Oily,50 ml,449,35,291.85,5.0,4003,1056,Yes
+PROD00680,Dot & Key Shampoo Watermelon,Hair Care,Shampoo,Normal,50 ml,199,30,139.3,4.2,552,479,No
+PROD00681,Dot & Key Hair Mask Barrier Repair,Hair Care,Hair Mask,Combination,100 ml,599,25,449.25,3.9,2274,724,Yes
+PROD00682,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Sensitive,80 ml,499,35,324.35,4.1,2884,107,Yes
+PROD00683,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,Oily,30 ml,399,15,339.15,4.4,3298,804,Yes
+PROD00684,Dot & Key Barrier Repair Cream Barrier Repair,Moisturizer,Barrier Repair Cream,All Skin Types,15 ml,599,15,509.15,5.0,3203,567,Yes
+PROD00685,Dot & Key Gentle Face Wash Barrier Repair,Cleanser,Gentle Face Wash,Combination,150 ml,899,20,719.2,4.4,1839,829,No
+PROD00686,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,All Skin Types,50 ml,399,0,399.0,3.6,4968,187,No
+PROD00687,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Dry,15 ml,899,0,899.0,3.8,370,1167,Yes
+PROD00688,Dot & Key Conditioner Hyaluronic,Hair Care,Conditioner,Normal,80 ml,699,10,629.1,4.2,4712,1057,No
+PROD00689,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Sensitive,30 ml,299,0,299.0,4.2,3125,588,No
+PROD00690,Dot & Key Retinol Serum Vitamin C,Serum,Retinol Serum,Normal,100 ml,549,15,466.65,3.4,57,777,Yes
+PROD00691,Dot & Key SPF 30 Sunscreen Cica,Sunscreen,SPF 30 Sunscreen,Normal,80 ml,699,15,594.15,4.2,1509,1150,Yes
+PROD00692,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Normal,150 ml,299,15,254.15,3.8,1225,1185,Yes
+PROD00693,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,Combination,50 ml,699,5,664.05,4.3,2164,960,Yes
+PROD00694,Dot & Key Gentle Face Wash Watermelon,Cleanser,Gentle Face Wash,Dry,80 ml,549,20,439.2,4.4,4763,59,Yes
+PROD00695,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,All Skin Types,150 ml,399,5,379.05,4.6,4727,1294,Yes
+PROD00696,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Combination,50 ml,549,30,384.3,3.4,4682,1350,No
+PROD00697,Dot & Key Lip Mask Watermelon,Lip Care,Lip Mask,Combination,50 ml,399,25,299.25,4.6,296,1217,Yes
+PROD00698,Dot & Key Hair Mask Barrier Repair,Hair Care,Hair Mask,All Skin Types,50 ml,599,10,539.1,4.4,4093,1420,Yes
+PROD00699,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Sensitive,150 ml,249,5,236.55,3.2,4547,611,No
+PROD00700,Dot & Key SPF 50 Sunscreen Cica,Sunscreen,SPF 50 Sunscreen,All Skin Types,50 ml,499,5,474.05,3.7,3602,1425,No
+PROD00701,Dot & Key Gel Sunscreen Barrier Repair,Sunscreen,Gel Sunscreen,Oily,100 ml,549,20,439.2,3.8,872,34,Yes
+PROD00702,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,All Skin Types,80 ml,399,30,279.3,4.4,701,1414,Yes
+PROD00703,Dot & Key Body Wash Hyaluronic,Body Care,Body Wash,Oily,150 ml,349,20,279.2,3.7,2840,250,Yes
+PROD00704,Dot & Key Body Butter Barrier Repair,Body Care,Body Butter,Normal,15 ml,449,30,314.3,3.1,1561,385,Yes
+PROD00705,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,All Skin Types,15 ml,499,0,499.0,4.4,3852,940,Yes
+PROD00706,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Sensitive,15 ml,549,30,384.3,3.7,964,376,Yes
+PROD00707,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,Sensitive,30 ml,699,15,594.15,3.9,3488,723,Yes
+PROD00708,Dot & Key Gentle Face Wash Watermelon,Cleanser,Gentle Face Wash,Combination,30 ml,449,35,291.85,4.8,1448,1292,Yes
+PROD00709,Dot & Key Body Wash Vitamin C,Body Care,Body Wash,Normal,150 ml,299,0,299.0,4.9,566,885,Yes
+PROD00710,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Combination,15 ml,799,5,759.05,3.9,990,933,Yes
+PROD00711,Dot & Key Lip Balm Barrier Repair,Lip Care,Lip Balm,Combination,30 ml,899,0,899.0,3.9,3087,123,Yes
+PROD00712,Dot & Key Shampoo Vitamin C,Hair Care,Shampoo,Oily,15 ml,249,5,236.55,3.1,3838,411,Yes
+PROD00713,Dot & Key Shampoo Barrier Repair,Hair Care,Shampoo,All Skin Types,50 ml,899,10,809.1,4.5,1499,1397,Yes
+PROD00714,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Dry,30 ml,249,5,236.55,3.6,507,508,Yes
+PROD00715,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Dry,50 ml,399,20,319.2,3.3,1390,476,Yes
+PROD00716,Dot & Key Lip Oil Vitamin C,Lip Care,Lip Oil,Oily,50 ml,299,15,254.15,3.2,4440,1177,No
+PROD00717,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,Normal,50 ml,549,20,439.2,3.6,3796,252,Yes
+PROD00718,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Sensitive,50 ml,499,20,399.2,3.3,3685,392,Yes
+PROD00719,Dot & Key Conditioner Vitamin C,Hair Care,Conditioner,Combination,80 ml,249,0,249.0,4.0,4023,851,Yes
+PROD00720,Dot & Key Shampoo Watermelon,Hair Care,Shampoo,Oily,50 ml,449,25,336.75,4.3,3578,405,No
+PROD00721,Dot & Key Gentle Face Wash Hyaluronic,Cleanser,Gentle Face Wash,Dry,100 ml,799,15,679.15,3.0,3764,130,Yes
+PROD00722,Dot & Key Hydrating Cleanser Watermelon,Cleanser,Hydrating Cleanser,Combination,30 ml,899,25,674.25,4.6,4212,1231,Yes
+PROD00723,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,All Skin Types,200 ml,449,0,449.0,4.7,781,1226,No
+PROD00724,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,Sensitive,100 ml,449,20,359.2,3.6,4706,804,Yes
+PROD00725,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,Normal,15 ml,449,0,449.0,4.6,2693,1226,Yes
+PROD00726,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Normal,80 ml,549,20,439.2,3.5,3311,1378,No
+PROD00727,Dot & Key Body Lotion Watermelon,Body Care,Body Lotion,Combination,30 ml,399,5,379.05,3.4,3003,188,Yes
+PROD00728,Dot & Key Oil Cleanser Cica,Cleanser,Oil Cleanser,Normal,200 ml,599,0,599.0,4.9,2722,1114,Yes
+PROD00729,Dot & Key Lip Oil Hyaluronic,Lip Care,Lip Oil,Combination,150 ml,299,20,239.2,3.3,4887,1490,No
+PROD00730,Dot & Key Lip Balm Vitamin C,Lip Care,Lip Balm,Dry,30 ml,249,35,161.85,3.2,4682,313,Yes
+PROD00731,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Oily,50 ml,349,0,349.0,3.3,3825,8,Yes
+PROD00732,Dot & Key Barrier Repair Cream Watermelon,Moisturizer,Barrier Repair Cream,Sensitive,50 ml,249,25,186.75,4.6,3909,858,Yes
+PROD00733,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Oily,150 ml,199,20,159.2,3.2,2742,151,Yes
+PROD00734,Dot & Key Niacinamide Serum Barrier Repair,Serum,Niacinamide Serum,All Skin Types,200 ml,199,25,149.25,3.9,4270,783,Yes
+PROD00735,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Normal,15 ml,549,10,494.1,4.3,2862,1500,Yes
+PROD00736,Dot & Key Lip Balm Watermelon,Lip Care,Lip Balm,Sensitive,200 ml,699,5,664.05,3.0,2749,1346,Yes
+PROD00737,Dot & Key Hair Mask Vitamin C,Hair Care,Hair Mask,Combination,15 ml,799,35,519.35,4.9,1611,1362,No
+PROD00738,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Sensitive,100 ml,249,25,186.75,4.0,202,1019,No
+PROD00739,Dot & Key Body Wash Cica,Body Care,Body Wash,Normal,50 ml,449,5,426.55,4.2,1634,1001,Yes
+PROD00740,Dot & Key Niacinamide Serum Cica,Serum,Niacinamide Serum,Oily,100 ml,499,20,399.2,3.4,2794,639,No
+PROD00741,Dot & Key Niacinamide Serum Hyaluronic,Serum,Niacinamide Serum,Dry,150 ml,549,10,494.1,3.1,1930,568,Yes
+PROD00742,Dot & Key Lip Balm Barrier Repair,Lip Care,Lip Balm,Normal,15 ml,699,0,699.0,4.7,233,1395,Yes
+PROD00743,Dot & Key Barrier Repair Cream Cica,Moisturizer,Barrier Repair Cream,Normal,100 ml,899,35,584.35,3.8,1496,399,Yes
+PROD00744,Dot & Key Ceramide Cream Vitamin C,Moisturizer,Ceramide Cream,Normal,150 ml,299,35,194.35,3.2,4896,1233,Yes
+PROD00745,Dot & Key SPF 30 Sunscreen Watermelon,Sunscreen,SPF 30 Sunscreen,All Skin Types,100 ml,599,30,419.3,3.7,1134,379,Yes
+PROD00746,Dot & Key Hyaluronic Acid Serum Vitamin C,Serum,Hyaluronic Acid Serum,Dry,200 ml,799,0,799.0,4.7,1988,106,No
+PROD00747,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Combination,30 ml,199,15,169.15,3.6,1210,1382,No
+PROD00748,Dot & Key Shampoo Vitamin C,Hair Care,Shampoo,All Skin Types,50 ml,549,30,384.3,3.9,4046,1250,No
+PROD00749,Dot & Key Scalp Serum Cica,Hair Care,Scalp Serum,Normal,100 ml,249,20,199.2,4.8,2336,323,Yes
+PROD00750,Dot & Key Body Scrub Cica,Body Care,Body Scrub,Normal,200 ml,899,35,584.35,4.1,4657,1408,Yes
+PROD00751,Dot & Key Oil-Free Moisturizer Watermelon,Moisturizer,Oil-Free Moisturizer,Dry,50 ml,899,25,674.25,3.7,1989,1432,Yes
+PROD00752,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,Sensitive,80 ml,199,35,129.35,4.2,3871,637,Yes
+PROD00753,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,All Skin Types,150 ml,199,30,139.3,3.9,4262,1323,Yes
+PROD00754,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Sensitive,150 ml,599,0,599.0,3.2,3275,155,Yes
+PROD00755,Dot & Key Conditioner Cica,Hair Care,Conditioner,Normal,50 ml,299,10,269.1,4.7,2547,897,Yes
+PROD00756,Dot & Key Retinol Serum Cica,Serum,Retinol Serum,Oily,30 ml,449,30,314.3,4.1,3132,502,Yes
+PROD00757,Dot & Key Hyaluronic Acid Serum Watermelon,Serum,Hyaluronic Acid Serum,Normal,80 ml,349,20,279.2,3.2,572,540,Yes
+PROD00758,Dot & Key Body Lotion Vitamin C,Body Care,Body Lotion,Oily,100 ml,199,30,139.3,4.8,1133,646,Yes
+PROD00759,Dot & Key Lip Oil Hyaluronic,Lip Care,Lip Oil,Dry,80 ml,549,30,384.3,3.5,3341,83,No
+PROD00760,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Dry,150 ml,499,20,399.2,3.5,4957,739,Yes
+PROD00761,Dot & Key Hair Mask Vitamin C,Hair Care,Hair Mask,Normal,15 ml,399,5,379.05,3.4,1778,377,No
+PROD00762,Dot & Key Tinted Lip Balm Hyaluronic,Lip Care,Tinted Lip Balm,Combination,50 ml,699,10,629.1,4.5,1164,390,Yes
+PROD00763,Dot & Key Hair Mask Cica,Hair Care,Hair Mask,Normal,15 ml,599,30,419.3,4.9,2089,138,Yes
+PROD00764,Dot & Key Hydrating Moisturizer Cica,Moisturizer,Hydrating Moisturizer,All Skin Types,150 ml,399,5,379.05,3.6,3655,1020,Yes
+PROD00765,Dot & Key Lip Balm Vitamin C,Lip Care,Lip Balm,Combination,15 ml,399,20,319.2,4.7,3441,737,Yes
+PROD00766,Dot & Key Hydrating Cleanser Cica,Cleanser,Hydrating Cleanser,Combination,30 ml,799,20,639.2,3.4,1373,445,Yes
+PROD00767,Dot & Key Vitamin C Serum Barrier Repair,Serum,Vitamin C Serum,Oily,100 ml,299,30,209.3,3.6,4366,792,Yes
+PROD00768,Dot & Key Body Butter Watermelon,Body Care,Body Butter,Dry,15 ml,399,30,279.3,4.7,1217,1470,No
+PROD00769,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Dry,30 ml,299,0,299.0,4.8,2346,1463,Yes
+PROD00770,Dot & Key Conditioner Vitamin C,Hair Care,Conditioner,Normal,80 ml,449,30,314.3,4.0,3817,1362,Yes
+PROD00771,Dot & Key Gentle Face Wash Hyaluronic,Cleanser,Gentle Face Wash,Sensitive,80 ml,199,30,139.3,3.2,4126,1191,Yes
+PROD00772,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Dry,150 ml,549,10,494.1,4.8,116,698,No
+PROD00773,Dot & Key Gel Sunscreen Barrier Repair,Sunscreen,Gel Sunscreen,All Skin Types,100 ml,399,35,259.35,4.5,2261,267,Yes
+PROD00774,Dot & Key Body Lotion Hyaluronic,Body Care,Body Lotion,Oily,50 ml,249,0,249.0,4.5,2856,537,Yes
+PROD00775,Dot & Key Hyaluronic Acid Serum Hyaluronic,Serum,Hyaluronic Acid Serum,All Skin Types,80 ml,549,0,549.0,3.7,2530,602,Yes
+PROD00776,Dot & Key Body Lotion Cica,Body Care,Body Lotion,Oily,15 ml,549,30,384.3,4.2,3468,1087,Yes
+PROD00777,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Oily,200 ml,699,30,489.3,5.0,1559,248,Yes
+PROD00778,Dot & Key Foaming Cleanser Barrier Repair,Cleanser,Foaming Cleanser,All Skin Types,200 ml,249,30,174.3,5.0,2169,780,Yes
+PROD00779,Dot & Key Niacinamide Serum Watermelon,Serum,Niacinamide Serum,Dry,80 ml,499,10,449.1,5.0,2680,1087,No
+PROD00780,Dot & Key Hyaluronic Acid Serum Hyaluronic,Serum,Hyaluronic Acid Serum,Dry,30 ml,899,35,584.35,4.4,4684,550,No
+PROD00781,Dot & Key Lip Mask Watermelon,Lip Care,Lip Mask,Oily,100 ml,449,15,381.65,3.2,3503,882,Yes
+PROD00782,Dot & Key Scalp Serum Cica,Hair Care,Scalp Serum,Normal,150 ml,699,0,699.0,4.8,1458,1430,Yes
+PROD00783,Dot & Key Foaming Cleanser Cica,Cleanser,Foaming Cleanser,Dry,15 ml,249,30,174.3,4.5,1970,1372,Yes
+PROD00784,Dot & Key Body Lotion Cica,Body Care,Body Lotion,Oily,200 ml,249,35,161.85,4.9,3732,1015,No
+PROD00785,Dot & Key Body Wash Cica,Body Care,Body Wash,All Skin Types,150 ml,449,20,359.2,4.9,4749,833,No
+PROD00786,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Dry,30 ml,449,20,359.2,3.3,175,479,No
+PROD00787,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Dry,50 ml,599,5,569.05,4.5,2274,961,Yes
+PROD00788,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,Combination,150 ml,499,10,449.1,3.1,4067,1137,Yes
+PROD00789,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Sensitive,150 ml,549,30,384.3,4.9,1264,1060,Yes
+PROD00790,Dot & Key Niacinamide Serum Watermelon,Serum,Niacinamide Serum,Oily,50 ml,399,30,279.3,3.7,1469,498,Yes
+PROD00791,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,Sensitive,80 ml,299,15,254.15,4.5,1807,957,Yes
+PROD00792,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Sensitive,30 ml,699,10,629.1,4.9,1975,1347,No
+PROD00793,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,All Skin Types,150 ml,499,15,424.15,4.9,1593,933,Yes
+PROD00794,Dot & Key Retinol Serum Barrier Repair,Serum,Retinol Serum,Normal,50 ml,799,20,639.2,4.9,1278,203,No
+PROD00795,Dot & Key Lip Balm Cica,Lip Care,Lip Balm,Dry,150 ml,399,15,339.15,4.8,354,983,Yes
+PROD00796,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Oily,30 ml,699,35,454.35,4.8,1040,350,No
+PROD00797,Dot & Key Niacinamide Serum Vitamin C,Serum,Niacinamide Serum,All Skin Types,200 ml,599,10,539.1,4.2,874,323,Yes
+PROD00798,Dot & Key Body Lotion Cica,Body Care,Body Lotion,Oily,30 ml,399,25,299.25,3.3,1188,931,Yes
+PROD00799,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,Normal,80 ml,199,0,199.0,3.2,1938,453,No
+PROD00800,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Combination,50 ml,699,15,594.15,3.4,3621,785,No
+PROD00801,Dot & Key Hydrating Moisturizer Cica,Moisturizer,Hydrating Moisturizer,Oily,80 ml,299,5,284.05,4.6,4145,1182,No
+PROD00802,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,Dry,80 ml,699,15,594.15,3.5,690,77,Yes
+PROD00803,Dot & Key Gentle Face Wash Watermelon,Cleanser,Gentle Face Wash,Oily,100 ml,249,25,186.75,4.9,614,1345,Yes
+PROD00804,Dot & Key Scalp Serum Cica,Hair Care,Scalp Serum,Oily,100 ml,249,10,224.1,4.3,682,635,Yes
+PROD00805,Dot & Key Niacinamide Serum Cica,Serum,Niacinamide Serum,Dry,80 ml,199,30,139.3,4.9,748,408,No
+PROD00806,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Sensitive,15 ml,199,0,199.0,4.6,2736,1328,Yes
+PROD00807,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Combination,200 ml,349,0,349.0,4.9,3119,731,Yes
+PROD00808,Dot & Key Conditioner Hyaluronic,Hair Care,Conditioner,Normal,200 ml,549,0,549.0,4.5,378,1246,No
+PROD00809,Dot & Key Shampoo Watermelon,Hair Care,Shampoo,Oily,30 ml,699,0,699.0,4.7,4805,540,No
+PROD00810,Dot & Key Lip Oil Vitamin C,Lip Care,Lip Oil,Sensitive,50 ml,299,35,194.35,3.1,4304,876,No
+PROD00811,Dot & Key Conditioner Barrier Repair,Hair Care,Conditioner,Sensitive,200 ml,549,15,466.65,3.8,2701,1383,Yes
+PROD00812,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Normal,30 ml,549,5,521.55,4.9,4434,1179,Yes
+PROD00813,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Sensitive,15 ml,549,10,494.1,4.3,3439,887,Yes
+PROD00814,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Combination,150 ml,599,25,449.25,3.5,787,255,Yes
+PROD00815,Dot & Key Shampoo Cica,Hair Care,Shampoo,Dry,200 ml,799,25,599.25,3.7,3137,697,Yes
+PROD00816,Dot & Key Retinol Serum Vitamin C,Serum,Retinol Serum,Sensitive,30 ml,899,5,854.05,3.3,1458,747,Yes
+PROD00817,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,Oily,15 ml,349,20,279.2,3.7,3582,605,Yes
+PROD00818,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,All Skin Types,200 ml,249,5,236.55,3.8,4602,448,Yes
+PROD00819,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Oily,80 ml,899,30,629.3,4.3,182,630,Yes
+PROD00820,Dot & Key Hydrating Moisturizer Vitamin C,Moisturizer,Hydrating Moisturizer,Normal,200 ml,199,20,159.2,3.5,2286,722,Yes
+PROD00821,Dot & Key Oil Cleanser Cica,Cleanser,Oil Cleanser,Oily,200 ml,199,25,149.25,4.9,4891,1083,Yes
+PROD00822,Dot & Key Lip Oil Cica,Lip Care,Lip Oil,All Skin Types,30 ml,699,15,594.15,4.4,1282,225,No
+PROD00823,Dot & Key Hydrating Cleanser Cica,Cleanser,Hydrating Cleanser,Combination,200 ml,549,35,356.85,4.1,1204,343,Yes
+PROD00824,Dot & Key Scalp Serum Barrier Repair,Hair Care,Scalp Serum,Sensitive,200 ml,499,35,324.35,4.4,476,780,Yes
+PROD00825,Dot & Key Lip Oil Barrier Repair,Lip Care,Lip Oil,Oily,30 ml,799,25,599.25,3.4,2097,1009,Yes
+PROD00826,Dot & Key SPF 30 Sunscreen Barrier Repair,Sunscreen,SPF 30 Sunscreen,Oily,30 ml,799,0,799.0,4.6,2733,1120,Yes
+PROD00827,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Combination,30 ml,699,30,489.3,3.9,4583,75,Yes
+PROD00828,Dot & Key Gel Sunscreen Barrier Repair,Sunscreen,Gel Sunscreen,Normal,150 ml,299,5,284.05,4.2,289,17,No
+PROD00829,Dot & Key Hyaluronic Acid Serum Vitamin C,Serum,Hyaluronic Acid Serum,Dry,15 ml,249,30,174.3,4.6,4144,1440,Yes
+PROD00830,Dot & Key Barrier Repair Cream Cica,Moisturizer,Barrier Repair Cream,Dry,80 ml,399,25,299.25,4.4,970,884,Yes
+PROD00831,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Combination,150 ml,249,20,199.2,3.1,3226,614,Yes
+PROD00832,Dot & Key Hydrating Moisturizer Watermelon,Moisturizer,Hydrating Moisturizer,Oily,200 ml,349,15,296.65,4.8,4909,524,Yes
+PROD00833,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Sensitive,80 ml,199,25,149.25,4.7,1822,956,Yes
+PROD00834,Dot & Key Oil-Free Moisturizer Hyaluronic,Moisturizer,Oil-Free Moisturizer,Sensitive,15 ml,349,20,279.2,4.1,4326,1480,Yes
+PROD00835,Dot & Key Oil-Free Moisturizer Cica,Moisturizer,Oil-Free Moisturizer,Dry,15 ml,449,10,404.1,3.9,2636,1128,Yes
+PROD00836,Dot & Key Ceramide Cream Vitamin C,Moisturizer,Ceramide Cream,Normal,15 ml,549,10,494.1,4.8,3635,1172,Yes
+PROD00837,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,Oily,150 ml,499,15,424.15,4.1,3847,1336,Yes
+PROD00838,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,All Skin Types,200 ml,499,15,424.15,4.5,3723,1488,No
+PROD00839,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Combination,80 ml,699,20,559.2,4.6,4795,1318,Yes
+PROD00840,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Combination,200 ml,199,15,169.15,3.8,3524,942,Yes
+PROD00841,Dot & Key Shampoo Cica,Hair Care,Shampoo,All Skin Types,200 ml,699,10,629.1,4.8,1251,311,Yes
+PROD00842,Dot & Key Scalp Serum Vitamin C,Hair Care,Scalp Serum,Sensitive,200 ml,349,35,226.85,4.7,1244,661,Yes
+PROD00843,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Oily,200 ml,199,25,149.25,4.3,2687,1154,Yes
+PROD00844,Dot & Key Vitamin C Serum Watermelon,Serum,Vitamin C Serum,Sensitive,100 ml,399,0,399.0,3.3,27,330,Yes
+PROD00845,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Sensitive,200 ml,599,10,539.1,3.3,3054,500,Yes
+PROD00846,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,All Skin Types,30 ml,699,15,594.15,3.6,735,1400,Yes
+PROD00847,Dot & Key Hyaluronic Acid Serum Barrier Repair,Serum,Hyaluronic Acid Serum,Combination,150 ml,299,10,269.1,3.6,2132,909,Yes
+PROD00848,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Combination,150 ml,249,15,211.65,4.4,1974,523,Yes
+PROD00849,Dot & Key Retinol Serum Cica,Serum,Retinol Serum,Sensitive,30 ml,549,20,439.2,3.7,2311,1482,Yes
+PROD00850,Dot & Key Conditioner Cica,Hair Care,Conditioner,Combination,30 ml,449,20,359.2,4.2,2204,1428,Yes
+PROD00851,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,Normal,150 ml,299,25,224.25,4.2,1254,268,No
+PROD00852,Dot & Key Lip Balm Watermelon,Lip Care,Lip Balm,Sensitive,200 ml,899,5,854.05,4.7,1470,1408,No
+PROD00853,Dot & Key Scalp Serum Hyaluronic,Hair Care,Scalp Serum,Oily,50 ml,199,35,129.35,3.8,3556,1168,No
+PROD00854,Dot & Key Gentle Face Wash Barrier Repair,Cleanser,Gentle Face Wash,All Skin Types,100 ml,249,10,224.1,3.5,3144,670,Yes
+PROD00855,Dot & Key Retinol Serum Vitamin C,Serum,Retinol Serum,Combination,100 ml,399,25,299.25,4.6,4314,352,No
+PROD00856,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Dry,150 ml,199,20,159.2,4.3,645,426,No
+PROD00857,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Oily,80 ml,899,5,854.05,4.7,2991,620,Yes
+PROD00858,Dot & Key Hydrating Cleanser Hyaluronic,Cleanser,Hydrating Cleanser,Sensitive,200 ml,299,20,239.2,3.2,3775,417,No
+PROD00859,Dot & Key SPF 30 Sunscreen Hyaluronic,Sunscreen,SPF 30 Sunscreen,Oily,80 ml,199,35,129.35,4.5,3590,830,Yes
+PROD00860,Dot & Key Gel Sunscreen Barrier Repair,Sunscreen,Gel Sunscreen,Oily,150 ml,449,30,314.3,4.6,1167,669,Yes
+PROD00861,Dot & Key Shampoo Hyaluronic,Hair Care,Shampoo,Sensitive,30 ml,449,10,404.1,4.1,224,1192,Yes
+PROD00862,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,Oily,15 ml,549,25,411.75,3.8,2646,745,Yes
+PROD00863,Dot & Key Foaming Cleanser Hyaluronic,Cleanser,Foaming Cleanser,Combination,50 ml,599,10,539.1,4.5,3741,1423,Yes
+PROD00864,Dot & Key Niacinamide Serum Vitamin C,Serum,Niacinamide Serum,All Skin Types,100 ml,399,15,339.15,3.3,4728,612,Yes
+PROD00865,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,All Skin Types,80 ml,699,10,629.1,4.5,634,1318,Yes
+PROD00866,Dot & Key Barrier Repair Cream Cica,Moisturizer,Barrier Repair Cream,Oily,15 ml,549,10,494.1,4.2,4000,1414,Yes
+PROD00867,Dot & Key Conditioner Cica,Hair Care,Conditioner,Oily,50 ml,349,15,296.65,4.4,522,219,Yes
+PROD00868,Dot & Key Barrier Repair Cream Barrier Repair,Moisturizer,Barrier Repair Cream,Normal,150 ml,799,25,599.25,4.2,3930,621,Yes
+PROD00869,Dot & Key SPF 50 Sunscreen Vitamin C,Sunscreen,SPF 50 Sunscreen,Dry,150 ml,549,30,384.3,3.7,2121,1121,Yes
+PROD00870,Dot & Key Body Lotion Watermelon,Body Care,Body Lotion,Combination,150 ml,449,15,381.65,4.5,1528,815,No
+PROD00871,Dot & Key Hyaluronic Acid Serum Cica,Serum,Hyaluronic Acid Serum,Combination,150 ml,599,15,509.15,4.0,3822,253,Yes
+PROD00872,Dot & Key Tinted Sunscreen Hyaluronic,Sunscreen,Tinted Sunscreen,Dry,30 ml,349,15,296.65,3.9,2550,821,Yes
+PROD00873,Dot & Key Body Wash Hyaluronic,Body Care,Body Wash,Dry,30 ml,799,0,799.0,4.3,3261,713,No
+PROD00874,Dot & Key Lip Balm Vitamin C,Lip Care,Lip Balm,Combination,80 ml,599,35,389.35,4.8,3957,877,Yes
+PROD00875,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,Combination,15 ml,449,20,359.2,4.7,1556,564,Yes
+PROD00876,Dot & Key Shampoo Watermelon,Hair Care,Shampoo,Combination,50 ml,699,0,699.0,4.6,2981,1380,Yes
+PROD00877,Dot & Key Hydrating Moisturizer Watermelon,Moisturizer,Hydrating Moisturizer,Oily,150 ml,599,10,539.1,4.1,2964,1465,Yes
+PROD00878,Dot & Key Tinted Lip Balm Watermelon,Lip Care,Tinted Lip Balm,Sensitive,80 ml,549,20,439.2,3.3,990,1038,No
+PROD00879,Dot & Key Hydrating Cleanser Cica,Cleanser,Hydrating Cleanser,Dry,100 ml,349,35,226.85,4.8,4372,726,Yes
+PROD00880,Dot & Key Body Wash Hyaluronic,Body Care,Body Wash,Normal,50 ml,599,30,419.3,4.8,2802,1358,Yes
+PROD00881,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Dry,100 ml,449,5,426.55,4.3,2064,869,Yes
+PROD00882,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Dry,50 ml,499,30,349.3,4.9,4694,160,Yes
+PROD00883,Dot & Key Niacinamide Serum Barrier Repair,Serum,Niacinamide Serum,Sensitive,50 ml,599,0,599.0,4.0,2248,370,Yes
+PROD00884,Dot & Key Body Wash Watermelon,Body Care,Body Wash,All Skin Types,100 ml,199,0,199.0,3.4,1063,791,Yes
+PROD00885,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,Normal,15 ml,599,25,449.25,4.2,3124,1176,Yes
+PROD00886,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Dry,200 ml,799,25,599.25,4.1,135,1123,Yes
+PROD00887,Dot & Key Oil-Free Moisturizer Vitamin C,Moisturizer,Oil-Free Moisturizer,Sensitive,80 ml,549,5,521.55,4.7,525,1263,Yes
+PROD00888,Dot & Key Scalp Serum Watermelon,Hair Care,Scalp Serum,Dry,80 ml,499,0,499.0,3.8,2650,607,Yes
+PROD00889,Dot & Key Gentle Face Wash Barrier Repair,Cleanser,Gentle Face Wash,Combination,100 ml,549,30,384.3,3.7,2519,989,Yes
+PROD00890,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Dry,50 ml,499,20,399.2,3.4,356,447,Yes
+PROD00891,Dot & Key Retinol Serum Cica,Serum,Retinol Serum,Oily,30 ml,499,15,424.15,3.1,694,1406,Yes
+PROD00892,Dot & Key Body Scrub Cica,Body Care,Body Scrub,All Skin Types,80 ml,349,25,261.75,4.3,4200,414,Yes
+PROD00893,Dot & Key Body Scrub Vitamin C,Body Care,Body Scrub,Sensitive,15 ml,499,30,349.3,3.5,3263,649,Yes
+PROD00894,Dot & Key Gentle Face Wash Watermelon,Cleanser,Gentle Face Wash,Sensitive,200 ml,199,30,139.3,4.9,959,1161,No
+PROD00895,Dot & Key Tinted Sunscreen Hyaluronic,Sunscreen,Tinted Sunscreen,Combination,200 ml,349,35,226.85,3.7,2932,1151,Yes
+PROD00896,Dot & Key Shampoo Cica,Hair Care,Shampoo,Oily,150 ml,499,10,449.1,3.2,4413,992,No
+PROD00897,Dot & Key Lip Mask Barrier Repair,Lip Care,Lip Mask,All Skin Types,100 ml,699,15,594.15,3.5,748,218,Yes
+PROD00898,Dot & Key Body Lotion Vitamin C,Body Care,Body Lotion,Oily,80 ml,299,25,224.25,4.2,3402,1030,Yes
+PROD00899,Dot & Key Hyaluronic Acid Serum Hyaluronic,Serum,Hyaluronic Acid Serum,Oily,200 ml,599,15,509.15,3.2,3585,657,Yes
+PROD00900,Dot & Key Hydrating Cleanser Vitamin C,Cleanser,Hydrating Cleanser,Normal,80 ml,699,0,699.0,3.8,3948,314,No
+PROD00901,Dot & Key Conditioner Cica,Hair Care,Conditioner,Dry,15 ml,349,5,331.55,3.6,3235,530,No
+PROD00902,Dot & Key Oil Cleanser Watermelon,Cleanser,Oil Cleanser,Normal,50 ml,899,20,719.2,4.7,2475,707,Yes
+PROD00903,Dot & Key Ceramide Cream Barrier Repair,Moisturizer,Ceramide Cream,All Skin Types,50 ml,349,35,226.85,4.6,3106,799,Yes
+PROD00904,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,Combination,50 ml,599,35,389.35,3.7,2907,765,No
+PROD00905,Dot & Key Shampoo Cica,Hair Care,Shampoo,All Skin Types,30 ml,349,15,296.65,4.5,4938,34,Yes
+PROD00906,Dot & Key Body Wash Cica,Body Care,Body Wash,Combination,50 ml,199,25,149.25,4.2,989,120,Yes
+PROD00907,Dot & Key Tinted Sunscreen Barrier Repair,Sunscreen,Tinted Sunscreen,Dry,50 ml,449,5,426.55,4.4,4404,479,Yes
+PROD00908,Dot & Key SPF 50 Sunscreen Hyaluronic,Sunscreen,SPF 50 Sunscreen,Sensitive,100 ml,549,35,356.85,4.2,402,705,Yes
+PROD00909,Dot & Key Hyaluronic Acid Serum Vitamin C,Serum,Hyaluronic Acid Serum,Oily,30 ml,349,0,349.0,3.1,4543,1466,No
+PROD00910,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Oily,100 ml,349,25,261.75,4.0,4716,140,Yes
+PROD00911,Dot & Key Tinted Sunscreen Watermelon,Sunscreen,Tinted Sunscreen,Sensitive,150 ml,399,5,379.05,4.1,3056,12,No
+PROD00912,Dot & Key SPF 30 Sunscreen Hyaluronic,Sunscreen,SPF 30 Sunscreen,Combination,30 ml,599,10,539.1,4.8,388,291,Yes
+PROD00913,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,Combination,200 ml,899,15,764.15,3.5,4677,912,Yes
+PROD00914,Dot & Key Conditioner Barrier Repair,Hair Care,Conditioner,Oily,50 ml,699,10,629.1,3.3,197,1157,No
+PROD00915,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Sensitive,15 ml,349,15,296.65,3.9,626,772,No
+PROD00916,Dot & Key Lip Mask Hyaluronic,Lip Care,Lip Mask,Combination,200 ml,549,35,356.85,3.8,4706,1286,Yes
+PROD00917,Dot & Key Oil Cleanser Cica,Cleanser,Oil Cleanser,Oily,80 ml,599,30,419.3,4.4,274,410,Yes
+PROD00918,Dot & Key Hair Mask Watermelon,Hair Care,Hair Mask,Oily,80 ml,799,30,559.3,3.4,3634,1300,No
+PROD00919,Dot & Key Barrier Repair Cream Hyaluronic,Moisturizer,Barrier Repair Cream,Oily,15 ml,699,10,629.1,4.5,456,410,Yes
+PROD00920,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Normal,50 ml,299,5,284.05,3.9,297,805,Yes
+PROD00921,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,Combination,200 ml,549,5,521.55,4.0,3643,317,Yes
+PROD00922,Dot & Key Oil-Free Moisturizer Watermelon,Moisturizer,Oil-Free Moisturizer,Normal,15 ml,349,35,226.85,4.1,3466,163,Yes
+PROD00923,Dot & Key Scalp Serum Barrier Repair,Hair Care,Scalp Serum,Sensitive,200 ml,199,0,199.0,3.1,4517,473,Yes
+PROD00924,Dot & Key Body Butter Barrier Repair,Body Care,Body Butter,Oily,100 ml,349,0,349.0,3.3,4784,685,Yes
+PROD00925,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Oily,30 ml,349,25,261.75,4.0,4701,453,Yes
+PROD00926,Dot & Key Tinted Lip Balm Vitamin C,Lip Care,Tinted Lip Balm,Dry,30 ml,299,35,194.35,4.7,440,1468,Yes
+PROD00927,Dot & Key Hydrating Moisturizer Watermelon,Moisturizer,Hydrating Moisturizer,Dry,80 ml,299,0,299.0,4.0,1974,804,Yes
+PROD00928,Dot & Key Oil Cleanser Barrier Repair,Cleanser,Oil Cleanser,Combination,50 ml,599,15,509.15,4.9,1886,86,No
+PROD00929,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,Dry,50 ml,549,35,356.85,3.8,3008,598,Yes
+PROD00930,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Normal,15 ml,449,10,404.1,3.2,2573,468,No
+PROD00931,Dot & Key Tinted Lip Balm Watermelon,Lip Care,Tinted Lip Balm,Oily,100 ml,399,10,359.1,3.5,2016,1490,Yes
+PROD00932,Dot & Key Body Scrub Cica,Body Care,Body Scrub,Sensitive,50 ml,699,5,664.05,4.5,312,1277,Yes
+PROD00933,Dot & Key SPF 50 Sunscreen Watermelon,Sunscreen,SPF 50 Sunscreen,Normal,200 ml,399,20,319.2,4.5,4552,458,No
+PROD00934,Dot & Key Lip Oil Vitamin C,Lip Care,Lip Oil,Normal,200 ml,699,35,454.35,4.8,4558,783,Yes
+PROD00935,Dot & Key Body Scrub Watermelon,Body Care,Body Scrub,All Skin Types,80 ml,599,30,419.3,4.1,2261,864,Yes
+PROD00936,Dot & Key Body Scrub Barrier Repair,Body Care,Body Scrub,Combination,80 ml,599,10,539.1,4.6,3406,1189,Yes
+PROD00937,Dot & Key Hair Mask Hyaluronic,Hair Care,Hair Mask,All Skin Types,80 ml,199,20,159.2,3.7,791,1212,No
+PROD00938,Dot & Key Vitamin C Serum Hyaluronic,Serum,Vitamin C Serum,Combination,15 ml,449,10,404.1,4.9,2977,67,Yes
+PROD00939,Dot & Key Gel Sunscreen Hyaluronic,Sunscreen,Gel Sunscreen,All Skin Types,150 ml,699,15,594.15,4.6,2037,907,Yes
+PROD00940,Dot & Key Scalp Serum Cica,Hair Care,Scalp Serum,Dry,200 ml,549,15,466.65,3.0,388,835,Yes
+PROD00941,Dot & Key Niacinamide Serum Hyaluronic,Serum,Niacinamide Serum,Combination,200 ml,799,15,679.15,3.4,3028,1500,Yes
+PROD00942,Dot & Key Shampoo Cica,Hair Care,Shampoo,Oily,150 ml,599,15,509.15,3.5,4635,309,Yes
+PROD00943,Dot & Key Hydrating Moisturizer Hyaluronic,Moisturizer,Hydrating Moisturizer,Combination,80 ml,249,35,161.85,4.7,1073,610,Yes
+PROD00944,Dot & Key Body Butter Hyaluronic,Body Care,Body Butter,Dry,50 ml,199,0,199.0,3.2,3269,418,No
+PROD00945,Dot & Key Hair Mask Watermelon,Hair Care,Hair Mask,All Skin Types,15 ml,199,10,179.1,4.3,2619,795,Yes
+PROD00946,Dot & Key Scalp Serum Watermelon,Hair Care,Scalp Serum,Dry,80 ml,349,35,226.85,4.5,786,461,Yes
+PROD00947,Dot & Key Conditioner Hyaluronic,Hair Care,Conditioner,Dry,50 ml,499,30,349.3,4.1,821,195,Yes
+PROD00948,Dot & Key Conditioner Hyaluronic,Hair Care,Conditioner,Combination,15 ml,299,25,224.25,3.0,96,1394,Yes
+PROD00949,Dot & Key Body Scrub Barrier Repair,Body Care,Body Scrub,Dry,30 ml,549,20,439.2,3.4,1234,972,Yes
+PROD00950,Dot & Key Retinol Serum Cica,Serum,Retinol Serum,Oily,200 ml,349,0,349.0,3.3,3074,808,No
+PROD00951,Dot & Key Barrier Repair Cream Vitamin C,Moisturizer,Barrier Repair Cream,Oily,80 ml,199,15,169.15,4.8,1371,779,Yes
+PROD00952,Dot & Key Gentle Face Wash Cica,Cleanser,Gentle Face Wash,Dry,100 ml,799,30,559.3,3.0,772,489,Yes
+PROD00953,Dot & Key Lip Balm Hyaluronic,Lip Care,Lip Balm,Normal,30 ml,449,5,426.55,4.2,4188,907,Yes
+PROD00954,Dot & Key Ceramide Cream Vitamin C,Moisturizer,Ceramide Cream,All Skin Types,50 ml,299,25,224.25,4.0,4264,1269,Yes
+PROD00955,Dot & Key Shampoo Watermelon,Hair Care,Shampoo,Dry,200 ml,799,25,599.25,3.1,1577,963,Yes
+PROD00956,Dot & Key Body Lotion Cica,Body Care,Body Lotion,All Skin Types,30 ml,599,25,449.25,3.3,433,773,Yes
+PROD00957,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Dry,30 ml,299,5,284.05,4.9,2746,270,No
+PROD00958,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Combination,80 ml,249,0,249.0,4.6,2641,1477,Yes
+PROD00959,Dot & Key Tinted Sunscreen Vitamin C,Sunscreen,Tinted Sunscreen,All Skin Types,30 ml,299,30,209.3,4.1,825,267,Yes
+PROD00960,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,Combination,50 ml,899,0,899.0,3.6,1510,1042,Yes
+PROD00961,Dot & Key Foaming Cleanser Vitamin C,Cleanser,Foaming Cleanser,Sensitive,150 ml,399,25,299.25,3.7,3879,1012,Yes
+PROD00962,Dot & Key Lip Mask Cica,Lip Care,Lip Mask,Oily,100 ml,199,15,169.15,4.9,2085,384,Yes
+PROD00963,Dot & Key Tinted Sunscreen Cica,Sunscreen,Tinted Sunscreen,Sensitive,80 ml,799,15,679.15,3.7,3517,1342,Yes
+PROD00964,Dot & Key Lip Oil Watermelon,Lip Care,Lip Oil,Combination,200 ml,449,20,359.2,4.2,3790,823,Yes
+PROD00965,Dot & Key Barrier Repair Cream Hyaluronic,Moisturizer,Barrier Repair Cream,All Skin Types,200 ml,899,30,629.3,4.7,4686,688,Yes
+PROD00966,Dot & Key Tinted Lip Balm Cica,Lip Care,Tinted Lip Balm,Sensitive,15 ml,349,35,226.85,3.3,1533,1286,Yes
+PROD00967,Dot & Key Barrier Repair Cream Cica,Moisturizer,Barrier Repair Cream,All Skin Types,15 ml,599,35,389.35,3.9,426,902,Yes
+PROD00968,Dot & Key Oil-Free Moisturizer Hyaluronic,Moisturizer,Oil-Free Moisturizer,Dry,50 ml,599,0,599.0,3.8,3960,281,Yes
+PROD00969,Dot & Key Body Butter Cica,Body Care,Body Butter,Sensitive,80 ml,799,20,639.2,5.0,4316,579,No
+PROD00970,Dot & Key Hair Mask Vitamin C,Hair Care,Hair Mask,Sensitive,50 ml,449,20,359.2,4.2,2748,449,Yes
+PROD00971,Dot & Key Oil-Free Moisturizer Vitamin C,Moisturizer,Oil-Free Moisturizer,All Skin Types,50 ml,699,5,664.05,4.8,2221,716,No
+PROD00972,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,All Skin Types,150 ml,449,10,404.1,3.0,3111,1146,Yes
+PROD00973,Dot & Key Conditioner Hyaluronic,Hair Care,Conditioner,Oily,80 ml,199,25,149.25,3.1,140,1141,Yes
+PROD00974,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,Dry,150 ml,899,5,854.05,3.5,1273,1337,Yes
+PROD00975,Dot & Key Oil Cleanser Vitamin C,Cleanser,Oil Cleanser,Dry,100 ml,549,35,356.85,4.4,3263,840,No
+PROD00976,Dot & Key Hydrating Moisturizer Vitamin C,Moisturizer,Hydrating Moisturizer,Oily,30 ml,899,5,854.05,3.2,3815,846,No
+PROD00977,Dot & Key Oil-Free Moisturizer Barrier Repair,Moisturizer,Oil-Free Moisturizer,Oily,200 ml,349,5,331.55,3.5,845,777,Yes
+PROD00978,Dot & Key Foaming Cleanser Cica,Cleanser,Foaming Cleanser,Dry,200 ml,399,5,379.05,4.3,3737,963,No
+PROD00979,Dot & Key Oil-Free Moisturizer Barrier Repair,Moisturizer,Oil-Free Moisturizer,All Skin Types,100 ml,399,25,299.25,4.8,1361,877,Yes
+PROD00980,Dot & Key Tinted Lip Balm Hyaluronic,Lip Care,Tinted Lip Balm,Normal,200 ml,299,25,224.25,4.7,3248,229,No
+PROD00981,Dot & Key Ceramide Cream Hyaluronic,Moisturizer,Ceramide Cream,Combination,200 ml,199,25,149.25,4.6,1091,933,Yes
+PROD00982,Dot & Key Lip Mask Vitamin C,Lip Care,Lip Mask,Sensitive,200 ml,349,5,331.55,3.1,664,1315,No
+PROD00983,Dot & Key Foaming Cleanser Watermelon,Cleanser,Foaming Cleanser,Combination,100 ml,399,5,379.05,3.3,2746,315,Yes
+PROD00984,Dot & Key Ceramide Cream Watermelon,Moisturizer,Ceramide Cream,Oily,50 ml,249,20,199.2,3.6,4429,445,Yes
+PROD00985,Dot & Key Gentle Face Wash Vitamin C,Cleanser,Gentle Face Wash,Normal,100 ml,399,35,259.35,3.0,2551,1407,Yes
+PROD00986,Dot & Key Body Scrub Barrier Repair,Body Care,Body Scrub,Combination,150 ml,249,0,249.0,4.5,3776,313,Yes
+PROD00987,Dot & Key Body Butter Vitamin C,Body Care,Body Butter,Dry,80 ml,249,5,236.55,4.6,961,240,Yes
+PROD00988,Dot & Key Oil Cleanser Barrier Repair,Cleanser,Oil Cleanser,All Skin Types,80 ml,299,15,254.15,3.7,1218,62,Yes
+PROD00989,Dot & Key Vitamin C Serum Cica,Serum,Vitamin C Serum,Dry,30 ml,249,20,199.2,4.8,3222,630,No
+PROD00990,Dot & Key Gentle Face Wash Watermelon,Cleanser,Gentle Face Wash,Sensitive,30 ml,249,30,174.3,4.3,3150,781,No
+PROD00991,Dot & Key Body Scrub Vitamin C,Body Care,Body Scrub,Dry,80 ml,299,20,239.2,3.8,3104,645,Yes
+PROD00992,Dot & Key Body Wash Cica,Body Care,Body Wash,Oily,150 ml,299,35,194.35,4.9,3342,753,Yes
+PROD00993,Dot & Key SPF 30 Sunscreen Vitamin C,Sunscreen,SPF 30 Sunscreen,Oily,200 ml,349,35,226.85,5.0,251,171,Yes
+PROD00994,Dot & Key Body Wash Barrier Repair,Body Care,Body Wash,All Skin Types,50 ml,899,35,584.35,4.4,2074,814,No
+PROD00995,Dot & Key Body Lotion Barrier Repair,Body Care,Body Lotion,Sensitive,200 ml,799,0,799.0,4.8,3819,1457,No
+PROD00996,Dot & Key Hydrating Moisturizer Barrier Repair,Moisturizer,Hydrating Moisturizer,Combination,200 ml,249,20,199.2,4.0,1712,878,Yes
+PROD00997,Dot & Key Hydrating Moisturizer Cica,Moisturizer,Hydrating Moisturizer,Dry,50 ml,799,30,559.3,4.0,1421,583,No
+PROD00998,Dot & Key Hair Mask Cica,Hair Care,Hair Mask,All Skin Types,100 ml,699,30,489.3,4.1,4445,1219,Yes
+PROD00999,Dot & Key Body Scrub Hyaluronic,Body Care,Body Scrub,All Skin Types,50 ml,599,20,479.2,4.1,2014,761,Yes
+PROD01000,Dot & Key Body Lotion Vitamin C,Body Care,Body Lotion,Dry,80 ml,249,25,186.75,3.2,3250,825,Yes
